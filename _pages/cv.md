@@ -9,32 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and work experience
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 2012-2015: engineering student
+    - Télécom SudParis (Evry, France)
+    - Specialization in statistics
+* 2015-2018: Ph.D in artificial intelligence
+    - IRIT (Toulouse, France)
+    - Preferences learning and application to e-commerce
+- 2018-2020: Postdoc in cybersecurity
+    - LAAS-CNRS (Toulouse, France)
+    - Intrusion detection based on artificial intelligence
+- Since 2020: Associate professor in cybersecurity
+    - CentraleSupelec and Inria (Rennes, France)
+    - Intrusion detection and malware analysis
 
 Publications
 ======
@@ -54,6 +42,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
