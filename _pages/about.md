@@ -29,12 +29,8 @@ I am teaching various topics at CentraleSupelec, notably:
 
 # Contact
 
-Bureau 506
-
-CentraleSupélec – Campus de Rennes
-
-Avenue de la Boulaie
-
-35510 Cesson-Sévigné – France
-
+Bureau 506  
+CentraleSupélec – Campus de Rennes  
+Avenue de la Boulaie  
+35510 Cesson-Sévigné – France  
 [pierre-francois.gimenez@centralesupelec.fr](mailto:pierre-francois.gimenez@centralesupelec.fr)
