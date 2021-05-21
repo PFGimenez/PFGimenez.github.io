@@ -22,10 +22,21 @@ I also work on the security of formal languages and more specifically on injecti
 # Teaching
 
 I am teaching various topics at CentraleSupelec, notably:
-
 - Network and security (L3)
 - Intrusion detection system (M2)
 - System programming (M1 and M2)
+
+# Doctoral advisor
+
+I am currently supervising three PhD students:
+- Maxime Lanvin on unsupervised intrusion detection in networks
+- Vincent Raulin on malware analysis
+- Adrien Schoen on network packets generation for IDS evaluation
+
+I were also involved in various PhD:
+- Malcolm Bourdon (defended in 2021)
+- Aliénor Damien (defended in 2020)
+- Jonathan Roux (defended in 2020)
 
 # Contact
 
