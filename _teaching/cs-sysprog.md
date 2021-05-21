@@ -8,8 +8,10 @@ date: 2020-01-01
 location: "Rennes, France"
 ---
 
-This course aims to train the students in system programming on Linux and Windows:
+- Programming in C and Rust
 - System programming on Unix (pipe, sockets, threads, processes, mutex)
 - System programming on Windows with Win32 API (winsock, threads, processus, mutex)
-- System programming in C and Rust
-- Evaluation on a project (free subject, for example: simplified RAID 5 controller, Linux shell, VPN client...)
+- Evaluation on a project. The students chose their subjects. For example:
+  - simplified RAID 5 controller
+  - Linux shell
+  - VPN client

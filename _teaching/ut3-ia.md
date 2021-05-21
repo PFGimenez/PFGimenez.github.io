@@ -9,10 +9,10 @@ location: "Toulouse, France"
 ---
 
 This course aims to train the students in general artificial intelligence techniques:
-- representation of problems with state diagrams
-- automatic resolution with search algorithms (breadth-first search, depth-first search, iterative depth-first search, best-first, greedy search and A*)
-- exploration of game tree (minimax algorithm)
-- graph coloration (Welsh and Power algorithm and DSatur)
-- resolution of constraint satisfaction problem (backtrack and forward checking algorithm)
+- Representation of problems with state diagrams
+- Automatic resolution with search algorithms (breadth-first search, depth-first search, iterative depth-first search, best-first, greedy search and A*)
+- Exploration of game tree (minimax algorithm)
+- Graph coloration (Welsh and Power algorithm and DSatur)
+- Resolution of constraint satisfaction problems (backtrack and forward checking algorithms)
 
 These algorithms are implemented in OCaml by the students.

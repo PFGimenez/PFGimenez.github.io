@@ -8,6 +8,6 @@ date: 2020-01-01
 location: "Rennes, France"
 ---
 
-This course aims to train the students in intrusion detection systems. I take part on the following subjects:
-- Anomaly-based intrusion detection with machine learning
+I teach on the following subjects:
+- Anomaly-based intrusion detection with machine learning and experimentation with simple models
 - Alert correlation (normalization, fusion, verification, analysis)
