@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pierre-François Gimenez"
   avatar           : "profile.jpg"
-  bio              : "I am an associate professor at CentraleSupelec in the CIDRE research team since October 2020."
+  bio              : "Associate professor in cybersecurity at CentraleSupelec"
   location         : "Rennes, France"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2DDHCTkAAAAJ"
-  email            :
+  email            : "pierre-francois.gimenez@centralesupelec.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

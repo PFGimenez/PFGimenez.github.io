@@ -6,5 +6,5 @@ excerpt: "Nowadays, air travel is one of the safest transportation means. While 
 date: 2020-10-12
 venue: 'IEEE 31st International Symposium on Software Reliability Engineering (ISSRE)'
 paperurl: 'https://hal.laas.fr/hal-03094215/document'
-citation:
+citation: 'Damien, A., Gimenez, P. F., Feyt, N., Nicomette, V., Kaâniche, M., & Alata, E. (2020, October). On-board Diagnosis: A First Step from Detection to Prevention of Intrusions on Avionics Applications. In 2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE) (pp. 358-368). IEEE.'
 ---

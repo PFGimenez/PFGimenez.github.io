@@ -39,3 +39,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+## Organization
+
+- I organize the seminars of the CIDRE team (https://team.inria.fr/cidre/research/seminars/)
