@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Pierre-François Gimenez"
   avatar           : "profile.jpg"
-  bio              : "Since September 2020, I am an associate professor at CentraleSupelec in the CIDRE research team."
+  bio              : "I am an associate professor at CentraleSupelec in the CIDRE research team since October 2020."
   location         : "Rennes, France"
-  employer         : ""
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2DDHCTkAAAAJ"
   email            :
