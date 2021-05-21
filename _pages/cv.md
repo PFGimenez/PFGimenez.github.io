@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education and work experience
-======
+## Education and work experience
 - Since 2020: Associate professor in cybersecurity
     - CentraleSupelec and Inria (Rennes, France)
     - Intrusion detection and malware analysis
@@ -24,20 +23,18 @@ Education and work experience
     - Télécom SudParis (Evry, France)
     - Specialization in statistics
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<!-- Talks -->
+<!-- ====== -->
+<!--   <ul>{% for post in site.talks %} -->
+<!--     {% include archive-single-talk-cv.html %} -->
+<!--   {% endfor %}</ul> -->
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
