@@ -2,9 +2,9 @@
 title: "Un système agnostique de détection d’intrusion radio pour protéger l’Internet des objets"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-SoSySec
+permalink: /talks/2020-NASSI
 venue: "Nouvelles Avancées en Sécurité des Systèmes d'Information, INSA-Toulouse"
-date: 2021-02-19
+date: 2020-01-22
 location: "Toulouse, France"
 ---
 
