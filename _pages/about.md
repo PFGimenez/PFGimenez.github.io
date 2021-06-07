@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pierre-François Gimenez"
+title: "Hello there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,13 +19,6 @@ I mainly work on intrusion detection, where I apply various machine learning tec
 
 I also work on the security of formal languages and more specifically on injection attacks.
 
-# Teacher
-
-I am teaching various topics at CentraleSupelec, notably:
-- Network and security (L3)
-- Intrusion detection system (M2)
-- System programming (M1 and M2)
-
 # Doctoral advisor
 
 I am currently supervising three PhD students:
@@ -37,6 +30,13 @@ I were also involved in various PhD:
 - Malcolm Bourdon (defended in 2021)
 - Aliénor Damien (defended in 2020)
 - Jonathan Roux (defended in 2020)
+
+# Teacher
+
+I am teaching various topics at CentraleSupelec, notably:
+- Network and security (L3)
+- Intrusion detection system (M2)
+- System programming (M1 and M2)
 
 # PC member and reviewer
 
