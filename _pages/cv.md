@@ -13,14 +13,14 @@ redirect_from:
 - Since 2020: Associate professor in cybersecurity
     - CentraleSupelec and Inria (Rennes, France)
     - Intrusion detection and malware analysis
-- 2018-2020: Postdoc in cybersecurity
+- 2018--2020: Postdoc in cybersecurity
     - LAAS-CNRS (Toulouse, France)
     - Intrusion detection based on machine learning
-* 2015-2018: PhD in artificial intelligence
+* 2015--2018: PhD in artificial intelligence
     - IRIT (Toulouse, France)
     - Preferences learning and application to e-commerce
-- 2012-2015: engineering student
-    - Télécom SudParis (Evry, France)
+- 2012--2015: engineering student
+    - Télécom SudParis (Évry, France)
     - Specialization in statistics
 
 ## Publications
@@ -42,4 +42,4 @@ redirect_from:
 
 ## Organization
 
-- I organize the seminars of the CIDRE team (https://team.inria.fr/cidre/research/seminars/)
+- I organize the seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) and update the Youtube page of the team (<https://www.youtube.com/channel/UCfO5ej3Pyqa6DdLxFNkUyGQ/featured>)
