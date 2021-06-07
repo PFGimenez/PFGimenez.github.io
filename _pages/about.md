@@ -19,7 +19,7 @@ I mainly work on intrusion detection, where I apply various machine learning tec
 
 I also work on the security of formal languages and more specifically on injection attacks.
 
-# Teaching
+# Teacher
 
 I am teaching various topics at CentraleSupelec, notably:
 - Network and security (L3)
@@ -37,6 +37,18 @@ I were also involved in various PhD:
 - Malcolm Bourdon (defended in 2021)
 - Aliénor Damien (defended in 2020)
 - Jonathan Roux (defended in 2020)
+
+# PC member and reviewer
+
+Conferences
+- AAAI 2021
+- Doctoral Forum of DSN 2020
+- IJCAI 2020
+- ISSRE 2020
+- RJCIA (Rencontres des Jeunes Chercheurs en Intelligence Artificielle) 2019, 2020
+
+Journals
+- Transactions on Computers (in 2020)
 
 # Contact
 
