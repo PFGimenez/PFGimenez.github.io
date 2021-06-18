@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at [CentraleSupelec](https://www.centralesupelec.fr/) (Rennes, France) in the [CIDRE](https://team.inria.fr/cidre/) research team since October 2020. I did my [PhD](https://tel.archives-ouvertes.fr/tel-02303275/document) in artificial intelligence at IRIT (Toulouse, France).
+I am an associate professor at [CentraleSupelec](https://www.centralesupelec.fr/) (Rennes, France) in the [CIDRE](https://team.inria.fr/cidre/) research team since October 2020. I did my [PhD](https://tel.archives-ouvertes.fr/tel-02303275/document) in artificial intelligence at IRIT (Toulouse, France) under the supervision of Hélène Fargier and Jérôme Mengin.
 
 # Interests
 
@@ -40,15 +40,18 @@ I am teaching various topics at CentraleSupelec, notably:
 
 # PC member and reviewer
 
-Conferences
-- AAAI 2021
+Security conferences
 - Doctoral Forum of DSN 2020
-- IJCAI 2020
 - ISSRE 2020
+
+Artificial intelligence conferences
+- AAAI 2021
+- IJCAI 2020
 - RJCIA (Rencontres des Jeunes Chercheurs en Intelligence Artificielle) 2019, 2020
 
 Journals
-- Transactions on Computers (in 2020)
+- Transactions on Computers
+- International Journal of Information Security
 
 # Contact
 
