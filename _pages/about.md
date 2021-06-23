@@ -26,7 +26,7 @@ I am currently supervising three PhD students:
 - Vincent Raulin on malware analysis
 - Adrien Schoen on network packets generation for IDS evaluation
 
-I were also involved in various PhD:
+I was also involved in various PhD:
 - Malcolm Bourdon (defended in 2021)
 - Aliénor Damien (defended in 2020)
 - Jonathan Roux (defended in 2020)
