@@ -11,6 +11,8 @@ Organizers: [Pierre-François Gimenez](mailto:pierre-francois.gimenez@centralesu
 
 Machine learning is applied successfully in various domains, including cybersecurity, where it has been used for intrusion detection, malware analysis, and attack comprehension, for example. Therefore, many cybersecurity researchers seek to catch up and introduce such techniques in their research. **The goal of this day is to provide the basics of machine learning for cybersecurity researchers with a practical focus**. No knowledge of machine learning is required!
 
+Ph.D. students that can present how machine learning is applied in their security subject [should apply](mailto:pierre-francois.gimenez@centralesupelec.fr) to a flash talk (15mn talk + 5mn QA).
+
 # Planning
 
 | Time     | Content                                                |
