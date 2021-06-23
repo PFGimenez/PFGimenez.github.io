@@ -5,34 +5,30 @@ permalink: /ml_for_security/
 author_profile: false
 ---
 
-# Hands-on Machine Learning for Security: September 24, 2021
+## Organized by CIDRE research team at CentraleSupelec in Rennes on September 24, 2021
 
-## Organized by CIDRE research team at CentraleSupelec in Rennes
+Organizers: [Pierre-François Gimenez](mailto:pierre-francois.gimenez@centralesupelec.fr) and [Yufei Han](mailto:yufei.han@inria.fr)
 
-URL: <https://pfgimenez.github.io/ml_for_security/>
-Contact: [pierre-francois.gimenez@centralesupelec.fr](mailto:pierre-francois.gimenez@centralesupelec.fr), [yufei.han@inria.fr](mailto:yufei.han@inria.fr)
-
-
-
+Machine learning is applied successfully in various domains, including cybersecurity, where it has been used for intrusion detection, malware analysis, and attack comprehension, for example. Therefore, many cybersecurity researchers seek to catch up and introduce such techniques in their research. **The goal of this day is to provide the basics of machine learning for cybersecurity researchers with a practical focus**. No knowledge of machine learning is required!
 
 # Planning
 
-| Time     | Content                                            |
-| ---      | ---                                                |
-| 9:30 AM  | Introduction                                       |
-| 9:35 AM  | Machine learning 101 (Pierre-François Gimenez)     |
-| 10:35 AM | Coffee break                                       |
-| 10:50 AM | Practical exercices                                |
-| 12:30 PM | Lunch break                                        |
-| 2:00 PM  | Security of machine learning (Teddy Furon)         |
-| 3:00 PM  | Coffee break                                       |
-| 3:15 PM  | 1st PhD student flash talk                         |
-| 3:35 PM  | 2nd PhD student flash talk                         |
-| 3:55 PM  | 3rd PhD student flash talk                         |
-| 4:15 PM  | 4th PhD student flash talk                         |
-| 4:35 PM  | Conclusion                                         |
+| Time     | Content                                                |
+| ---      | ---                                                    |
+| 9:30 AM  | Introduction                                           |
+| 9:35 AM  | Machine learning 101 (Pierre-François Gimenez, CIDRE)  |
+| 10:35 AM | _Coffee break_                                         |
+| 10:50 AM | Practical exercices                                    |
+| 12:30 PM | _Lunch break_                                          |
+| 2:00 PM  | Security of machine learning (Teddy Furon, Linkmedia)  |
+| 3:00 PM  | _Coffee break_                                         |
+| 3:15 PM  | 1st Ph.D. student flash talk                           |
+| 3:35 PM  | 2nd Ph.D. student flash talk                           |
+| 3:55 PM  | 3rd Ph.D. student flash talk                           |
+| 4:15 PM  | 4th Ph.D. student flash talk                           |
+| 4:35 PM  | Conclusion                                             |
 
-All time are given in the CEST timezone (i.e. Rennes time).
+All times are given in the CEST timezone (i.e., Rennes time).
 
 # Location
 
@@ -45,4 +41,4 @@ Seminars will also be retransmitted live on [Youtube](https://www.youtube.com/ch
 
 # Registration
 
-Registration is _free but mandatory_ to ensure we comply with the maximum capacity allowed by the official sanitary measures. Register by contacting [Pierre-François Gimenez](mailto:pierre-francois.gimenez@centralesupelec.fr).
+Registration is **free but mandatory** to ensure we comply with the maximum capacity allowed by the official sanitary restrictions. Register by contacting [Pierre-François Gimenez](mailto:pierre-francois.gimenez@centralesupelec.fr).
