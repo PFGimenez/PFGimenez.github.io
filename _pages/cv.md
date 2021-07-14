@@ -23,6 +23,11 @@ redirect_from:
     - Télécom SudParis (Évry, France)
     - Specialization in statistics
 
+## Organization
+
+- I organize the seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) and update the Youtube page of the team (<https://www.youtube.com/channel/UCfO5ej3Pyqa6DdLxFNkUyGQ/featured>) since 2020
+- I organized the ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/).
+
 ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -39,6 +44,4 @@ redirect_from:
   {% endfor %}</ul>
   
 
-## Organization
 
-- I organize the seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) and update the Youtube page of the team (<https://www.youtube.com/channel/UCfO5ej3Pyqa6DdLxFNkUyGQ/featured>)

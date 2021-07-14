@@ -45,4 +45,4 @@ Seminars will also be retransmitted live on [Youtube](https://www.youtube.com/ch
 
 Registration is **free but mandatory** to ensure we comply with the maximum capacity allowed by the official sanitary restrictions (at the moment, we can host __42__ people in total). Register by contacting [Pierre-François Gimenez](mailto:pierre-francois.gimenez@centralesupelec.fr).
 
-Ph.D. students that can present how machine learning is applied in their security subject [should apply](mailto:pierre-francois.gimenez@centralesupelec.fr) to a flash talk (15mn talk + 5mn QA).
+Ph.D. students that can present how machine learning is applied in their security subject [should apply](mailto:pierre-francois.gimenez@centralesupelec.fr) to a flash talk (15mn talk + 5mn Q&A).

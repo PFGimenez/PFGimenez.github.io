@@ -41,6 +41,7 @@ I am teaching various topics at CentraleSupelec, notably:
 # PC member and reviewer
 
 Security conferences
+- EICC 2021
 - Doctoral Forum of DSN 2020
 - ISSRE 2020
 
