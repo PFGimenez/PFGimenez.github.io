@@ -14,7 +14,7 @@ I am an associate professor at [CentraleSupelec](https://www.centralesupelec.fr/
 
 I mainly work on intrusion detection, where I apply various machine learning techniques. Here are a few recent projects:
 - Intrusion detection in IoT networks by analyzing with deep learning the raw radio communication captured with SDR (software-defined radio). Our solution can monitor wide radio bands and detect low-level attack in proprietary and undocumented protocols. [PDF](https://hal.archives-ouvertes.fr/hal-03123925/document)
-- Intrusion detection in a fleet of IoT devices without any model learning, by detecting anomalous devices by its deviation to the rest of the population (collaboration with EDF). [PDF](https://ieeexplore.ieee.org/abstract/document/9306726)
+- Intrusion detection in a fleet of IoT devices without any model learning, by detecting anomalous devices by its deviation to the rest of the population (collaboration with EDF). [PDF](https://hal.laas.fr/hal-03328251/document)
 - Intrusion detection and explanation in avionics systems based on bigram timing analysis (collaboration with Thalès AVS). [PDF](https://hal.laas.fr/hal-03094215/document)
 
 I also work on the security of formal languages and more specifically on injection attacks.
@@ -23,7 +23,7 @@ I also work on the security of formal languages and more specifically on injecti
 
 I am currently supervising three PhD students:
 - Maxime Lanvin on unsupervised intrusion detection in networks
-- Vincent Raulin on malware analysis
+- Vincent Raulin on malware dynamic analysis
 - Adrien Schoen on network packets generation for IDS evaluation
 
 I was also involved in various PhD:
@@ -46,7 +46,7 @@ Security conferences
 - ISSRE 2020
 
 Artificial intelligence conferences
-- AAAI 2021
+- AAAI 2021, 2022
 - IJCAI 2020
 - RJCIA (Rencontres des Jeunes Chercheurs en Intelligence Artificielle) 2019, 2020
 
