@@ -9,7 +9,6 @@ location: "Rennes, France"
 ---
 
 I am in charge of this module.
-
 - Programming in C and Rust
 - System programming on Unix (pipe, sockets, threads, processes, mutex)
 - System programming on Windows with Win32 API (winsock, threads, processus, mutex)
