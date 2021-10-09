@@ -25,9 +25,11 @@ redirect_from:
 
 ## Organization
 
-- I organize the seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) and update the Youtube page of the team (<https://www.youtube.com/channel/UCfO5ej3Pyqa6DdLxFNkUyGQ/featured>) since 2020
-- I organized the ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/).
-- I organize the "IA&Cyber mornings" of the CIDRE team.
+- ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"
+- Seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) since 2020
+- [Annual seminar](https://team.inria.fr/cidre/seminaire-cidre-au-vert-du-26-11-21/) of the CIDRE team on 26/11/21
+- "IA&Cyber mornings" seminars of the CIDRE team.
+- I manage the Youtube page of the team (<https://www.youtube.com/channel/UCfO5ej3Pyqa6DdLxFNkUyGQ/>) since 2020
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
