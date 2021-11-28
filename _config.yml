@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pierre-François Gimenez"
 title_separator          : "-"
 name                     : &name "Pierre-François Gimenez"
-description              : &description "Cybersecurity assistant professor at CentraleSupelec in Rennes, France"
+description              : &description "Cybersecurity associate professor at CentraleSupelec in Rennes, France"
 url                      : https://pfgimenez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PFGimenez/PFGimenez.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pierre-François Gimenez"
   avatar           : "profile.jpg"
-  bio              : "Associate professor in cybersecurity at CentraleSupelec"
+  bio              : "Associate professor in cybersecurity"
   location         : "Rennes, France"
-  employer         :
+  employer         : "CentraleSupélec"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2DDHCTkAAAAJ"
   email            : "pierre-francois.gimenez@centralesupelec.fr"
