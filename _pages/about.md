@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at [CentraleSupelec](https://www.centralesupelec.fr/) (Rennes, France) in the [CIDRE](https://team.inria.fr/cidre/) research team since October 2020. I did my [PhD](http://theses.fr/2018TOU30182) in artificial intelligence at IRIT (Toulouse, France) under the supervision of Hélène Fargier and Jérôme Mengin.
+I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the [CIDRE](https://team.inria.fr/cidre/) research team since October 2020. I did my [PhD](http://theses.fr/2018TOU30182) in artificial intelligence at IRIT (Toulouse, France) under the supervision of Hélène Fargier and Jérôme Mengin.
 
 # Interests
 
@@ -33,7 +33,7 @@ I was also involved in various PhD:
 
 # Teacher
 
-I am teaching various topics at CentraleSupelec, notably:
+I am teaching various topics at CentraleSupélec, notably:
 - Network and security (L3)
 - Intrusion detection system (M2)
 - System programming (M1 and M2)

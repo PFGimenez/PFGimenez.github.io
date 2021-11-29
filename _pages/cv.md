@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education and work experience
 - Since 2020: Associate professor in cybersecurity
-    - CentraleSupelec and Inria (Rennes, France)
+    - CentraleSupélec and Inria (Rennes, France)
     - Intrusion detection and malware analysis
 - 2018--2020: Postdoc in cybersecurity
     - LAAS-CNRS (Toulouse, France)
@@ -27,9 +27,8 @@ redirect_from:
 
 - ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"
 - Seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) since 2020
-- [Annual seminar](https://team.inria.fr/cidre/seminaire-cidre-au-vert-du-26-11-21/) of the CIDRE team on 26/11/21
-- "IA&Cyber mornings" seminars of the CIDRE team.
 - I manage the Youtube page of the team (<https://www.youtube.com/channel/UCfO5ej3Pyqa6DdLxFNkUyGQ/>) since 2020
+- Various scientific events in the team
 
 ## Publications
   <ul>{% for post in site.publications reversed %}

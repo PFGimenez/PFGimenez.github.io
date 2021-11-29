@@ -3,7 +3,7 @@ title: "System programming on Linux and Windows"
 collection: teaching
 type: "M1"
 permalink: /teaching/cs-sysprog
-venue: "CentraleSupelec"
+venue: "CentraleSupélec"
 date: 2020-01-01
 location: "Rennes, France"
 ---

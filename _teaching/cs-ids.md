@@ -3,7 +3,7 @@ title: "Intrusion detection systems"
 collection: teaching
 type: "M2"
 permalink: /teaching/cs-ids
-venue: "CentraleSupelec"
+venue: "CentraleSupélec"
 date: 2020-01-01
 location: "Rennes, France"
 ---
