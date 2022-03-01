@@ -27,9 +27,9 @@ I am currently supervising three PhD students:
 - Adrien Schoen on network packets generation for IDS evaluation
 
 I was also involved in various PhD:
-- Malcolm Bourdon (defended in 2021)
-- Aliénor Damien (defended in 2020)
-- Jonathan Roux (defended in 2020)
+- [Malcolm Bourdon](http://theses.fr/s261687), defended in 2021
+- [Aliénor Damien](http://theses.fr/2020ISAT0001), defended in 2020
+- [Jonathan Roux](http://theses.fr/2020TOU30011), defended in 2020
 
 # Teacher
 
@@ -41,6 +41,8 @@ I am teaching various topics at CentraleSupélec, notably:
 # PC member and reviewer
 
 Security conferences
+- DSN 2022
+- THCon 2022
 - EICC 2021
 - Doctoral Forum of DSN 2020
 - ISSRE 2020
@@ -53,6 +55,7 @@ Artificial intelligence conferences
 Journals
 - Transactions on Computers
 - International Journal of Information Security
+- Computers & Security
 
 # Contact
 
