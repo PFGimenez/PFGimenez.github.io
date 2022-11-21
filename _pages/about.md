@@ -48,7 +48,7 @@ I am teaching various topics at CentraleSupélec, notably:
 
 Security conferences
 - DSN 2022
-- THCon 2022
+- THCon 2022, 2023
 - EICC 2021
 - Doctoral Forum of DSN 2020
 - ISSRE 2020
@@ -56,7 +56,7 @@ Security conferences
 Artificial intelligence conferences
 - AAAI 2021, 2022
 - IJCAI 2020
-- RJCIA (Rencontres des Jeunes Chercheurs en Intelligence Artificielle) 2019, 2020
+- RJCIA 2019, 2020
 
 Journals
 - Transactions on Computers

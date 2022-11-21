@@ -27,7 +27,8 @@ redirect_from:
 
 - ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"
 - Seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) since 2020
-- I manage the Youtube page of the team (<https://www.youtube.com/channel/UCfO5ej3Pyqa6DdLxFNkUyGQ/>) since 2020
+- Doctoral paper reading group "Papers Please" (<https://team.inria.fr/cidre/papers-please/>) since 2022
+- Youtube page of the team (<https://www.youtube.com/@cidre-team>) since 2020
 - Various scientific events in the team
 
 ## Publications
