@@ -62,6 +62,7 @@ Journals
 - Transactions on Computers
 - International Journal of Information Security
 - Computers & Security
+- Journal of Computer Security
 
 # Contact
 
