@@ -14,8 +14,7 @@ I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr
 
 I have various areas of interest. Most notably:
 - applying machine learning techniques to security problems, such as malware analysis, anomaly detection, and data generation
-- the security of formal languages, and more specifically, on injection-based attacks
-- learning and inference in discrete graphical models, notably Bayesian network and LP-trees
+- the application of formal languages theory on system and protocol security, especially on injection-based vulnerabilities
 
 # Collaborations
 
@@ -27,7 +26,7 @@ Besides, I regularly work with researchers from DGA (Bruz), Telecom SudParis (
 
 # Doctoral advisor
 
-I am currently supervising three PhD students:
+I am currently co-supervising three PhD students:
 - Maxime Lanvin on unsupervised intrusion detection in networks
 - Vincent Raulin on dynamic malware analysis
 - Adrien Schoen on network packets generation for IDS evaluation
