@@ -22,7 +22,7 @@ I am a member of various collaborations:
 - "Superviz" PEPR project, a French national program on supervision
 - "DefMal" PEPR project, a French national program on malware analysis
 
-Besides, I regularly work with researchers from DGA (Bruz), Telecom SudParis (Évry), Telecom Paris (Paris), EURECOM (Sophia Antipolis), IRIT (Toulouse), LAAS-CNRS (Toulouse), NICT (Tokyo, Japan) and CISPA (Saarbrücken, Germany)
+Besides, I regularly work with researchers from DGA (Bruz), Telecom SudParis (Évry), Telecom Paris (Paris), IRIT (Toulouse), LAAS-CNRS (Toulouse), NICT (Tokyo, Japan) and CISPA (Saarbrücken, Germany)
 
 # Doctoral advisor
 
@@ -36,6 +36,11 @@ I was also involved in various PhD:
 - [Aliénor Damien](http://theses.fr/2020ISAT0001), defended in 2020
 - [Jonathan Roux](http://theses.fr/2020TOU30011), defended in 2020
 
+I supervised several M2 research projects:
+- [Célia Prat], student at INSA Toulouse, on secure programming languages by design
+- [Grégor Quetel], student at University Rennes 1, on intrusion detection based on semantic extraction of parse trees
+- [Fanny Dijoud], student at Polytech Nice, on intrusion detection based on heterogeneous dynamic graph
+
 # Teacher
 
 I am teaching various topics at CentraleSupélec, notably:
@@ -46,8 +51,9 @@ I am teaching various topics at CentraleSupélec, notably:
 # PC member and reviewer
 
 Security conferences
-- DSN 2022
+- EICC 2023
 - THCon 2022, 2023
+- DSN 2022
 - EICC 2021
 - Doctoral Forum of DSN 2020
 - ISSRE 2020
@@ -58,6 +64,7 @@ Artificial intelligence conferences
 - RJCIA 2019, 2020
 
 Journals
+- IEEE Network
 - Transactions on Computers
 - International Journal of Information Security
 - Computers & Security
