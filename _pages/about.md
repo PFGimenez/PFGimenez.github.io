@@ -20,9 +20,10 @@ I have various areas of interest. Most notably:
 
 I am a member of various collaborations:
 - "Superviz" PEPR project, a French national program on supervision
-- "DefMal" PEPR project, a French national program on malware analysis
+- "DefMal" PEPR project, a French national program on malware analysies
+- "SecGen" joint team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany)
 
-Besides, I regularly work with researchers from DGA (Bruz), Telecom SudParis (Évry), Telecom Paris (Paris), IRIT (Toulouse), LAAS-CNRS (Toulouse), NICT (Tokyo, Japan) and CISPA (Saarbrücken, Germany)
+Besides, I regularly work with researchers from DGA (Bruz), Telecom SudParis (Évry), Telecom Paris (Paris), IRIT (Toulouse), LAAS-CNRS (Toulouse), and NICT (Tokyo, Japan)
 
 # Doctoral advisor
 
