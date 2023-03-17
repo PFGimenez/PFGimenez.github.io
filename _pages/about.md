@@ -8,68 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the [CIDRE](https://team.inria.fr/cidre/) research team since October 2020. I did my [PhD](http://theses.fr/2018TOU30182) in artificial intelligence at IRIT (Toulouse, France) under the supervision of Hélène Fargier and Jérôme Mengin.
-
-# Interests
-
-I have various areas of interest. Most notably:
+I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the [CIDRE](https://team.inria.fr/cidre/) research team. I have various areas of interest, most notably:
 - applying machine learning techniques to security problems, such as malware analysis, anomaly detection, and data generation
 - the application of formal languages theory on system and protocol security, especially on injection-based vulnerabilities
 
-# Collaborations
+# Ongoing collaborations
 
-I am a member of various collaborations:
-- "Superviz" PEPR project, a French national program on supervision
-- "DefMal" PEPR project, a French national program on malware analysies
-- "SecGen" joint team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany)
+## [Superviz](https://files.inria.fr/superviz/) (2022-2028)
 
-Besides, I regularly work with researchers from DGA (Bruz), Telecom SudParis (Évry), Telecom Paris (Paris), IRIT (Toulouse), LAAS-CNRS (Toulouse), and NICT (Tokyo, Japan)
+Superviz is a project of the PEPR Cybersécurité. It addresses the following challenges: (i) the increase in the number and diversity of objects to be supervised, (ii) the complexity of systems interconnected to form large critical infrastructures on a European scale, (iii) the existence of increasingly complex and silent targeted attacks, and (iv) the treatment of massive attacks which rapidly affect a significant number of victims. Faced with these challenges, it is necessary to significantly improve the efficiency of the detection-reaction chain (response and remediation). The project's main objective is to provide new solutions and advance the current scientific state of the art.
 
-# Doctoral advisor
+## DefMal (2022-2028)
 
-I am currently co-supervising three PhD students:
-- Maxime Lanvin on unsupervised intrusion detection in networks
-- Vincent Raulin on dynamic malware analysis
-- Adrien Schoen on network packets generation for IDS evaluation
+DefMal is a project of the PEPR Cybersécurité. The objective of the project is to improve the knowledge and understanding of malicious programs and to develop countermeasures. The project involves the human and social sciences, as in the majority of computer attacks, humans are implicated as the "weak link". Today, malicious programs are increasingly sophisticated and manage to hide themselves and what they are doing. We need to find new techniques to analyze these programs and understand how they operate.
 
-I was also involved in various PhD:
-- [Malcolm Bourdon](http://theses.fr/s261687), defended in 2021
-- [Aliénor Damien](http://theses.fr/2020ISAT0001), defended in 2020
-- [Jonathan Roux](http://theses.fr/2020TOU30011), defended in 2020
+## [SecGen](https://files.inria.fr/secgen) (2023-2025)
 
-I supervised several M2 research projects:
-- [Célia Prat], student at INSA Toulouse, on secure programming languages by design
-- [Grégor Quetel], student at University Rennes 1, on intrusion detection based on semantic extraction of parse trees
-- [Fanny Dijoud], student at Polytech Nice, on intrusion detection based on heterogeneous dynamic graph
+SecGen is an associated team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
 
-# Teacher
+## Other collaborations
 
-I am teaching various topics at CentraleSupélec, notably:
-- Network and security (L3)
-- Intrusion detection system (M2)
-- System programming (M1 and M2)
+Besides, I regularly work with researchers from:
+- DGA (Bruz) on intrusion detection
+- Institut Mines-Télécom (Palaiseau) on intrusion detection and data generation
+- IRIT (Toulouse) on data mining
+- LAAS-CNRS (Toulouse) on formal language theory applied to security
+- NICT (Tokyo, Japan) on XAI for security
 
-# PC member and reviewer
-
-Security conferences
-- EICC 2023
-- THCon 2022, 2023
-- DSN 2022
-- EICC 2021
-- Doctoral Forum of DSN 2020
-- ISSRE 2020
-
-Artificial intelligence conferences
-- AAAI 2021, 2022
-- IJCAI 2020
-- RJCIA 2019, 2020
-
-Journals
-- IEEE Network
-- Transactions on Computers
-- International Journal of Information Security
-- Computers & Security
-- Journal of Computer Security
+# Some recent publications
+  <ul>{% for post in site.publications reversed limit:5 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 # Contact
 

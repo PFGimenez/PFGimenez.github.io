@@ -19,9 +19,42 @@ redirect_from:
 * 2015--2018: PhD in artificial intelligence
     - IRIT (Toulouse, France)
     - Preferences learning and application to e-commerce
-- 2012--2015: engineering student
-    - Télécom SudParis (Évry, France)
-    - Specialization in statistics
+
+## Experience
+
+# Doctoral advisor
+
+I am currently co-supervising three PhD students:
+- Maxime Lanvin on unsupervised intrusion detection in networks
+- Vincent Raulin on dynamic malware analysis
+- Adrien Schoen on network packets generation for IDS evaluation
+
+I was also involved in various PhD:
+- [Malcolm Bourdon](http://theses.fr/s261687), defended in 2021
+- [Aliénor Damien](http://theses.fr/2020ISAT0001), defended in 2020
+- [Jonathan Roux](http://theses.fr/2020TOU30011), defended in 2020
+
+### PC member and reviewer
+
+Security conferences
+- EICC 2023
+- THCon 2022, 2023
+- DSN 2022
+- EICC 2021
+- Doctoral Forum of DSN 2020
+- ISSRE 2020
+
+Artificial intelligence conferences
+- AAAI 2021, 2022
+- IJCAI 2020
+- RJCIA 2019, 2020
+
+Journals
+- IEEE Network
+- Transactions on Computers
+- International Journal of Information Security
+- Computers & Security
+- Journal of Computer Security
 
 ## Organization
 
