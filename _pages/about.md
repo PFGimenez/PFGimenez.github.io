@@ -24,11 +24,11 @@ DefMal is a project of the PEPR Cybersécurité. The objective of the project is
 
 ## [SecGen](https://files.inria.fr/secgen) (2023-2025)
 
-SecGen is an associated team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
+SecGen is an associated team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system. I am Inria’s PI (principal investigator) for this project.
 
 ## Other collaborations
 
-Besides, I regularly work with researchers from:
+I regularly work with researchers from:
 - DGA (Bruz) on intrusion detection
 - Institut Mines-Télécom (Palaiseau) on intrusion detection and data generation
 - IRIT (Toulouse) on data mining
@@ -36,7 +36,7 @@ Besides, I regularly work with researchers from:
 - NICT (Tokyo, Japan) on XAI for security
 
 # Some recent publications
-  <ul>{% for post in site.publications reversed limit:5 %}
+  <ul>{% for post in site.publications limit:5 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

@@ -22,7 +22,7 @@ redirect_from:
 
 ## Experience
 
-# Doctoral advisor
+### Doctoral advisor
 
 I am currently co-supervising three PhD students:
 - Maxime Lanvin on unsupervised intrusion detection in networks
@@ -33,6 +33,14 @@ I was also involved in various PhD:
 - [Malcolm Bourdon](http://theses.fr/s261687), defended in 2021
 - [Aliénor Damien](http://theses.fr/2020ISAT0001), defended in 2020
 - [Jonathan Roux](http://theses.fr/2020TOU30011), defended in 2020
+
+### Scientific events and dissemination
+
+- ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"
+- Seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) since 2020
+- Doctoral paper reading group "Papers Please" (<https://team.inria.fr/cidre/papers-please/>) since 2022
+- Youtube page of the team (<https://www.youtube.com/@cidre-team>) since 2020
+- Various scientific events in the team
 
 ### PC member and reviewer
 
@@ -55,14 +63,6 @@ Journals
 - International Journal of Information Security
 - Computers & Security
 - Journal of Computer Security
-
-## Organization
-
-- ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"
-- Seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) since 2020
-- Doctoral paper reading group "Papers Please" (<https://team.inria.fr/cidre/papers-please/>) since 2022
-- Youtube page of the team (<https://www.youtube.com/@cidre-team>) since 2020
-- Various scientific events in the team
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
