@@ -16,7 +16,7 @@ I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr
 
 ## [Superviz](https://files.inria.fr/superviz/) (2022-2028)
 
-Superviz is a project of the PEPR Cybersécurité. It addresses the following challenges: (i) the increase in the number and diversity of objects to be supervised, (ii) the complexity of systems interconnected to form large critical infrastructures on a European scale, (iii) the existence of increasingly complex and silent targeted attacks, and (iv) the treatment of massive attacks which rapidly affect a significant number of victims. Faced with these challenges, it is necessary to significantly improve the efficiency of the detection-reaction chain (response and remediation). The project's main objective is to provide new solutions and advance the current scientific state of the art.
+Superviz is a project of the PEPR Cybersécurité. It addresses the following challenges: (i) the increase in the number and diversity of objects to be supervised, (ii) the complexity of systems interconnected to form large critical infrastructures on a European scale, (iii) the existence of increasingly complex and silent targeted attacks, and (iv) the treatment of massive attacks which rapidly affect a significant number of victims. Faced with these challenges, it is necessary to significantly improve the efficiency of the detection-reaction chain (response and remediation).
 
 ## DefMal (2022-2028)
 
