@@ -36,7 +36,7 @@ I regularly work with researchers from:
 - NICT (Tokyo, Japan) on XAI for security
 
 # Some recent publications
-  <ul>{% for post in site.publications limit:5 %}
+  <ul>{% for post in site.publications limit:5 reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
