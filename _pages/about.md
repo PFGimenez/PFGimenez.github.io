@@ -36,8 +36,12 @@ I regularly work with researchers from:
 - NICT (Tokyo, Japan) on XAI for security
 
 # Some recent publications
-  <ul>{% for post in site.publications limit:5 reversed %}
-    {% include archive-single-cv.html %}
+  {% assign counter = 0 %}
+  <ul>{% for post in site.publications reversed %}
+    {% if counter < 5 %}
+      {% include archive-single-cv.html %}
+      {% assign counter = counter | plus: 1 %}
+    {% endif %}
   {% endfor %}</ul>
 
 # Contact
