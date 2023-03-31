@@ -2,7 +2,6 @@
 title: "A theory of injection-based vulnerabilities in formal grammars"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-gt-mfs
 venue: "2023 Annual Meeting of the WG \"Formal Methods for Security\""
 date: 2023-03-29
 location: "Roscoff, France"
