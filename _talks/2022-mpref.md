@@ -2,7 +2,6 @@
 title: "The complexity of unsupervised learning of lexicographic preferences"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-mpref
 venue: "M-PREF Workshop of IJCAI"
 date: 2022-07-23
 location: "Vienne, Autriche"

@@ -2,7 +2,6 @@
 title: "Anomaly detection and explanation in networks with machine learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-NICT-seminar
 venue: "NICT seminar"
 date: 2023-03-02
 location: "Campus Cyber, Puteaux, France"

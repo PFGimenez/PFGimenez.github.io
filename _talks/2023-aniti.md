@@ -2,7 +2,6 @@
 title: "The complexity of unsupervised learning of lexicographic preferences"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-aniti
 venue: "Séminaire ANITI, IRIT"
 date: 2023-03-17
 location: "Toulouse, France"

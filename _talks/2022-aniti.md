@@ -2,7 +2,6 @@
 title: "Interactive configuration and recommendation in presence of constraints"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-aniti
 venue: "Séminaire ANITI, IRIT"
 date: 2022-05-20
 location: "Toulouse, France"

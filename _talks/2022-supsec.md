@@ -2,7 +2,6 @@
 title: "Behavioral intrusion detection system based on machine learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-supsec
 venue: "Supsec 3rd workshop: AI for supervision"
 date: 2022-09-20
 location: "Rennes, France"

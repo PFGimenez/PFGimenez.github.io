@@ -2,7 +2,6 @@
 title: "Interactive configuration with constraints consistency and recommendation"
 collection: talks
 type: "Talk"
-permalink: /talks/2018-panorama-auto
 venue: "Panorama des recherches dans le domaine automobile, LAAS-IRIT-Laplace"
 date: 2018-06-12
 location: "Toulouse, France"

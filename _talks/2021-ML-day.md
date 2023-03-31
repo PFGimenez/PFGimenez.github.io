@@ -2,7 +2,6 @@
 title: "Machine Learning 101"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-ML-day
 venue: "Hands-on Machine Learning for Security seminar"
 date: 2021-09-24
 location: "Rennes, France"

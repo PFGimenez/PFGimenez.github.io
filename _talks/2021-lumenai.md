@@ -2,7 +2,6 @@
 title: "Machine learning et sécurité : entre menaces et opportunités"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-lumenai
 venue: "MeetUp LumenAI"
 date: 2021-11-29
 location: "Rennes, France"
