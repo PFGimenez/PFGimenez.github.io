@@ -62,6 +62,7 @@ I was also involved in various PhD:
 - ISSRE 2020
 
 ### Artificial intelligence conferences
+- ECAI 2023
 - AAAI 2021, 2022
 - IJCAI 2020
 - RJCIA 2019, 2020
