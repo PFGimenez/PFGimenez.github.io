@@ -7,4 +7,4 @@ date: 2023-06-20
 location: "Campus Cyber, Puteaux, France"
 ---
 
-I’ll be part of a round-table discussion about the state of the art in research on AI and cybersecurity.
+In this round-table discussion, I present the current stakes of network supervision, how machine learning can answer them, and what challenges it brings.
