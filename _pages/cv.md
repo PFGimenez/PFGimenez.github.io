@@ -56,6 +56,7 @@ I was also involved in various PhD:
 ## PC member and reviewer
 
 ### Security conferences
+- ERTS 2024
 - EICC 2023
 - THCon 2022, 2023
 - DSN 2022

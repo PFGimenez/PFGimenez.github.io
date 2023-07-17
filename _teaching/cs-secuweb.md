@@ -8,5 +8,5 @@ date: 2022-01-01
 location: "Rennes, France"
 ---
 
-I am in charge of this module. In addition to the coordination of the module, I teach the Flash backend framework.
+I am the coordinator of this module. Besides, I teach the Flash backend framework.
 
