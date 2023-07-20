@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there!"
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the [CIDRE](https://team.inria.fr/cidre/) research team. I have various areas of interest, most notably:
-- applying machine learning techniques to security problems, such as malware analysis, anomaly detection, and data generation
+- developing and applying machine learning and data mining techniques to security problems, such as malware analysis, anomaly detection, and data generation
 - the application of formal languages theory on system and protocol security, especially on injection-based vulnerabilities
 
 # Ongoing collaborations
@@ -20,15 +20,15 @@ SecGen is an associated team ("Équipe Associée") between Inria and CISPA (Saar
 
 ## [Superviz](https://files.inria.fr/superviz/) (2022-2028)
 
-Superviz is a project of the [PEPR Cybersécurité](https://www.pepr-cybersecurite.fr/). It addresses the following challenges: (i) the increase in the number and diversity of objects to be supervised, (ii) the complexity of systems interconnected to form large critical infrastructures on a European scale, (iii) the existence of increasingly complex and silent targeted attacks, and (iv) the treatment of massive attacks which rapidly affect a significant number of victims. Faced with these challenges, it is necessary to significantly improve the efficiency of the detection-reaction chain (response and remediation).
+Superviz is a project of the [PEPR Cybersécurité](https://www.pepr-cybersecurite.fr/). It addresses the following challenges: (i) the increase in the number and diversity of objects, (ii) the complexity of interconnected systems, (iii) the existence of increasingly complex and silent targeted attacks, and (iv) the treatment of massive attacks which rapidly affect a significant number of victims.
 
 ## [DefMal](https://pepr-defmal.loria.fr/) (2022-2028)
 
-DefMal is a project of the PEPR Cybersécurité. The objective of the project is to improve the knowledge and understanding of malicious programs and to develop countermeasures. The project involves the human and social sciences, as in the majority of computer attacks, humans are implicated as the "weak link". Today, malicious programs are increasingly sophisticated and manage to hide themselves and what they are doing. We need to find new techniques to analyze these programs and understand how they operate.
+DefMal is a project of the PEPR Cybersécurité. The objective of the project is to improve the knowledge and understanding of malicious programs and to develop countermeasures. Today, malicious programs are increasingly sophisticated and manage to hide themselves and what they are doing. We need to find new techniques to analyze these programs and understand how they operate.
 
 ## REV (2023-2028)
 
-REV is a project of the PEPR Cybersécurité. It addresses the following challenges: (i) holistic vulnerability analysis, from hardware to software to communications, (ii) vulnerabilities exploitation, including the characterization and understanding of the degrees of exploitation allowed by classes of vulnerabilities and the ability to circumvent modern protections, and (iii) vulnerability analysis's legal aspects (ethical issues, fairness of digital evidence).
+REV is a project of the PEPR Cybersécurité. It addresses the following challenges: (i) holistic vulnerability analysis, from hardware to software to communications, (ii) characterization and understanding of the degrees of exploitation and the ability to circumvent modern protections, and (iii) vulnerability analysis's legal aspects (ethical issues, fairness of digital evidence).
 
 ## Other collaborations
 
@@ -39,7 +39,7 @@ I regularly work with researchers from:
 - LAAS-CNRS (Toulouse) on formal language theory applied to security
 - NICT (Tokyo, Japan) on XAI for security
 
-# Some recent publications
+# Recent publications
   {% assign counter = 0 %}
   <ul>{% for post in site.publications reversed %}
     {% if counter < 5 %}
