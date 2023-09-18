@@ -53,6 +53,10 @@ I was also involved in various PhD:
 - Youtube page of the team (<https://www.youtube.com/@cidre-team>) since 2020
 - Various scientific events in the team
 
+## PhD defense jury member
+- Mohamed El Bouazzati (2023)
+- Malcolm Bourdon (2021)
+
 ## PC member and reviewer
 
 ### Security conferences
