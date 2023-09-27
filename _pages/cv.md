@@ -26,7 +26,6 @@ redirect_from:
 
 I am a member of several "PEPR Cybersécurité" projects:
 - [Superviz](https://files.inria.fr/superviz/), on supervision for security
-- [DefMal](https://pepr-defmal.loria.fr/), on defense against malware
 - REV, on vulnerability identification and exploitation
 
 I am the Inria’s PI (principal investigator) of the [SecGen](https://files.inria.fr/secgen) associated team with CISPA. This project is dedicated to synthetic data generation for intrusion detection systems.
