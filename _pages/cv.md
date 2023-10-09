@@ -56,12 +56,15 @@ I was also involved in various PhD:
 - Mohamed El Bouazzati (2023)
 - Malcolm Bourdon (2021)
 
+## CSID member
+- Clément Parssegny (2023-2025)
+
 ## PC member and reviewer
 
 ### Security conferences
 - ERTS 2024
 - EICC 2023
-- THCon 2022, 2023
+- THCon 2022, 2023, 2024
 - DSN 2022
 - EICC 2021
 - Doctoral Forum of DSN 2020
