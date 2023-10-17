@@ -63,8 +63,8 @@ I was also involved in various PhD:
 
 ### Security conferences
 - ERTS 2024
-- EICC 2023
 - THCon 2022, 2023, 2024
+- EICC 2023
 - DSN 2022
 - EICC 2021
 - Doctoral Forum of DSN 2020
