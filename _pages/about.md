@@ -33,7 +33,6 @@ I regularly work with researchers from:
 - Institut Mines-Télécom (Palaiseau) on intrusion detection and data generation
 - IRIT (Toulouse) on data mining
 - LAAS-CNRS (Toulouse) on formal language theory applied to security
-- NICT (Tokyo, Japan) on XAI for security
 
 # Recent publications
   {% assign counter = 0 %}
