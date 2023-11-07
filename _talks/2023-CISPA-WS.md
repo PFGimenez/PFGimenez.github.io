@@ -7,4 +7,4 @@ date: 2023-11-06
 location: "Campus Cyber, Puteaux, France"
 ---
 
-Pitch for a internship and doctoral position about network traffic generation. [Slides](https://pfgimenez.github.io/files/ws-cispa.pdf)
+An overview of scientific questions about network traffic generation. [Slides](https://pfgimenez.github.io/files/ws-cispa.pdf)
