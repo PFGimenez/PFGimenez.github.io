@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the [CIDRE](https://team.inria.fr/cidre/) research team. I have various areas of interest, most notably:
+I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the PIRAT research team (ex-[CIDRE](https://team.inria.fr/cidre/)). I have various areas of interest, most notably:
 - developing and applying machine learning and data mining techniques to security problems, such as malware analysis, anomaly detection, and data generation
 - the application of formal languages theory on system and protocol security, especially on injection-based vulnerabilities
 
