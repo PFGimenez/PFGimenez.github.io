@@ -3,7 +3,7 @@ title: "Les IA, un démultiplicateur d’effets pour la cyberdéfense ? (table r
 collection: talks
 type: "Talk"
 venue: "Séminaire IA du Commandement de la cyberdéfense"
-date: 2023-12-06
+date: 2024-01-31
 location: "Campus Cyber, Puteaux, France"
 ---
 
