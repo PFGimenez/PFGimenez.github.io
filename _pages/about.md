@@ -12,6 +12,10 @@ I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr
 - developing and applying machine learning and data mining techniques to security problems, such as malware analysis, anomaly detection, and data generation
 - the application of formal languages theory on system and protocol security, especially on injection-based vulnerabilities
 
+**I am hiring!**
+- Post-doctoral position on white-box and black-box web application fuzzing based on formal grammars (part of the REV project, with LAAS-CNRS)
+- PhD position on transfer learning for network data generation (with DGA, Télécom SudParis and Inria)
+
 # Ongoing collaborations
 
 ## Inria’s Principal Investigator of [SecGen](https://files.inria.fr/secgen) (2023-2025)
