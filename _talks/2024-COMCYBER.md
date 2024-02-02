@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 venue: "Séminaire IA du Commandement de la cyberdéfense"
 date: 2024-01-31
-location: "Campus Cyber, Puteaux, France"
+location: "Maison des Polytechniciens, Paris 7e, France"
 ---
 
-In this round-table discussion, we discuss how AI can help cybersecurity
+This round-table discussion is dedicated to the effect of AI on cybersecurity: its limitations, its opportunities and its risks.

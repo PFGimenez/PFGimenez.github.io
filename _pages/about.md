@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the PIRAT research team (ex-[CIDRE](https://team.inria.fr/cidre/)). I have various areas of interest, most notably:
-- developing and applying machine learning and data mining techniques to security problems, such as malware analysis, anomaly detection, and data generation
-- the application of formal languages theory on system and protocol security, especially on injection-based vulnerabilities
+I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the PIRAT research team (ex-[CIDRE](https://team.inria.fr/cidre/)). I work mostly on intrusion detection systems (IDS), and on how to make them more reliable, more usable, and more assessable:
+- by designing new XAI tools to explain behavioral, semi-supervised IDS
+- by proposing new representations of cybersecurity data (network communications, malware dynamic analysis, etc.)
+- by devising new techniques of synthetic network traffic generation based on explainable AI and data mining
 
 **I am hiring!**
 - Post-doctoral position on white-box and black-box web application fuzzing based on formal grammars (part of the REV project, with LAAS-CNRS)
@@ -33,9 +34,9 @@ REV is a project of the PEPR Cybersécurité. It addresses the following challen
 ## Other collaborations
 
 I regularly work with researchers from:
-- DGA (Bruz) on intrusion detection
-- Institut Mines-Télécom (Palaiseau) on intrusion detection and data generation
-- IRIT (Toulouse) on data mining
+- DGA-MI (Bruz) on intrusion detection
+- Institut Mines-Télécom (Palaiseau) on data generation
+- IRIT (Toulouse) on machine learning
 - LAAS-CNRS (Toulouse) on formal language theory applied to security
 
 # Recent publications
