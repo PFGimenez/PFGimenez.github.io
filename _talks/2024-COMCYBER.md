@@ -7,4 +7,4 @@ date: 2024-01-31
 location: "Maison des Polytechniciens, Paris 7e, France"
 ---
 
-This round-table discussion is dedicated to the effect of AI on cybersecurity: its limitations, its opportunities and its risks.
+This round-table discussion is dedicated to the effect of AI on cybersecurity: its limitations, its opportunities and its risks. [Video](https://vimeo.com/alistertv/review/911202617/293c1956f9)
