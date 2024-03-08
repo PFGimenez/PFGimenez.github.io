@@ -3,7 +3,7 @@ title: "Modélisations des données de sécurité pour l’apprentissage automat
 collection: talks
 type: "Talk"
 venue: "Académie des Technologies"
-date: 2024-02-28
+date: 2024-03-11
 location: "En visioconférence"
 ---
 
