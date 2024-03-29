@@ -58,6 +58,7 @@ I was also involved in various PhD:
 
 ## CSID member
 - Clément Parssegny (2023-2025)
+- Léa Kenmogne (2023-2025)
 
 ## PC member and reviewer
 
