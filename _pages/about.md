@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the PIRAT research team (ex-[CIDRE](https://team.inria.fr/cidre/)). I work mostly on intrusion detection systems (IDS), and on how to make them more reliable, more usable, and more assessable:
+I am an associate professor at [CentraleSupélec](https://www.centralesupelec.fr/) (Rennes, France) in the Inria [PIRAT](https://team.inria.fr/pirat/) research team (ex-[CIDRE](https://team.inria.fr/cidre/)). I work mostly on intrusion detection systems (IDS), and on how to make them more reliable, more usable, and more assessable:
 - by designing new XAI tools to explain behavioral, semi-supervised IDS
 - by proposing new representations of cybersecurity data (network communications, malware dynamic analysis, etc.)
 - by devising new techniques of synthetic network traffic generation based on explainable AI and data mining
