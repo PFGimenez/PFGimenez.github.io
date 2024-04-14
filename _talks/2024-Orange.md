@@ -2,7 +2,7 @@
 title: "Attacks on machine learning: challenges and solutions"
 collection: talks
 type: "Talk"
-venue: "Évènement organisé par le Groupe Orange"
+venue: "Séminaire des experts du Groupe Orange"
 date: 2024-06-26
 location: "Couvent des Jacobins, Rennes"
 ---
