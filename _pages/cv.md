@@ -53,6 +53,7 @@ I was also involved in various PhD:
 - Various scientific events in the team
 
 ### PhD defense jury member
+- Hamdi Friji (2024)
 - Léo Lavaur (2024)
 - Mohamed El Bouazzati (2023)
 - Malcolm Bourdon (2021)
