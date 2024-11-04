@@ -1,5 +1,5 @@
 ---
-title: "Empirical Christoffel function for anomaly detection"
+title: "ecf: empirical Christoffel function for anomaly detection"
 collection: software
 date: 2020-10-26
 ---
