@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pierre-François Gimenez"
 title_separator          : "-"
 name                     : &name "Pierre-François Gimenez"
-description              : &description "Cybersecurity researcher at Inria in Rennes, France"
+description              : &description "Cybersecurity/IA research scientist at Inria in Rennes, France"
 url                      : https://pfgimenez.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PFGimenez/PFGimenez.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pierre-François Gimenez"
   avatar           : "profile.jpg"
-  bio              : "Research fellow in cybersecurity"
+  bio              : "Research scientist in cybersecurity and AI"
   location         : "Rennes, France"
   employer         : "Inria"
   pubmed           :
