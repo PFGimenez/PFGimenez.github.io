@@ -65,6 +65,7 @@ I was also involved in various PhD:
 ### PC member and reviewer
 
 #### Security conferences
+- RESSI 2025
 - ERTS 2024
 - THCon 2022, 2023, 2024
 - EICC 2021, 2023

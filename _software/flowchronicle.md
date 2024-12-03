@@ -1,5 +1,5 @@
 ---
-title: "FlowChronicle"
+title: "FlowChronicle: network flow data miner and generator"
 collection: software
 authors: Joscha Cüppers, Pierre-François Gimenez and Adrien Schoen
 date: 2024-12-09
