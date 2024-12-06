@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Inria](https://www.inria.fr/) (Rennes, France) in the [PIRAT](https://team.inria.fr/pirat/) research team (ex-[CIDRE](https://team.inria.fr/cidre/)). I work mostly on intrusion detection systems (IDS), and on how to make them more reliable, more usable, and more assessable:
+I am a researcher at [Inria](https://www.inria.fr/) (Rennes, France) in the [PIRAT](https://team.inria.fr/pirat/) research team (ex-[CIDRE](https://team.inria.fr/cidre/)) and a member of the [LHS](https://www.lhs-rennes.fr/) laboratory at Rennes. I work mostly on intrusion detection systems (IDS), and on how to make them more reliable, more usable, and more assessable:
 - by designing new XAI tools to explain behavioral, semi-supervised IDS
 - by proposing new representations of cybersecurity data (network communications, malware dynamic analysis, etc.)
 - by devising new techniques of synthetic network traffic generation based on explainable AI and data mining
