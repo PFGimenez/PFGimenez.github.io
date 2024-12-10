@@ -15,7 +15,7 @@ I am a researcher at [Inria](https://www.inria.fr/) (Rennes, France) in the [PIR
 
 **I am hiring!**
 - Post-doctoral position on white-box and black-box web application fuzzing based on formal grammars (part of the REV project, with LAAS-CNRS), starting September 2025
-- PhD position on transfer learning for network data generation (with DGA, Télécom SudParis and Inria), starting September 2025
+- PhD position on transfer learning for network data generation (with DGA), starting September 2025
 
 # Ongoing collaborations
 

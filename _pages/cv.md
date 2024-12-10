@@ -53,10 +53,10 @@ I was also involved in various PhD:
 - Various scientific events in the team
 
 ### PhD defense jury member
-- Hamdi Friji (2024)
-- Léo Lavaur (2024)
-- Mohamed El Bouazzati (2023)
-- Malcolm Bourdon (2021)
+- Hamdi Friji (2024, Télécom SudParis)
+- Léo Lavaur (2024, IMT Atlantique)
+- Mohamed El Bouazzati (2023, Université Bretagne Sud)
+- Malcolm Bourdon (2021, LAAS-CNRS)
 
 ### CSID member
 - Clément Parssegny (2023-2025)
