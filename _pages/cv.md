@@ -34,16 +34,15 @@ I am the Inria’s PI (principal investigator) of the [SecGen](https://files.inr
 
 ### Doctoral advisor
 I am currently co-supervising 5 PhD students:
-- Maxime Lanvin on unsupervised intrusion detection in networks (with Ludovic Mé, Grégory Blanc, Yufei Han and Frédéric Majorczyk)
 - Vincent Raulin on dynamic malware analysis (with Valérie Viet Triem Tong and Yufei Han)
-- Adrien Schoen on network packets generation for IDS evaluation (with Ludovic Mé, Éric Totel, Yufei Han and Frédéric Majorczyk)
 - Grégor Quetel on intrusion detection system by semantics inference based on instrumented parsers (with Laurent Pautet, Thomas Robert and Eric Alata)
-- Fanny Dijoud on intrusion detection system from both applications logs and network traffic packets (with Michel Hurfin, Frédéric Majorczyk, Barbara Pilastre and Tristan Bitard-Feildel)
+- Fanny Dijoud on intrusion detection system from both applications logs and network traffic packets (with Michel Hurfin, Frédéric Majorczyk and Barbara Pilastre)
 
-I was also involved in various PhD:
-- [Malcolm Bourdon](http://theses.fr/s261687), defended in 2021
-- [Aliénor Damien](http://theses.fr/2020ISAT0001), defended in 2020
-- [Jonathan Roux](http://theses.fr/2020TOU30011), defended in 2020
+Alumni PhD:
+- Maxime Lanvin on unsupervised intrusion detection in networks (with Ludovic Mé, Grégory Blanc, Yufei Han and Frédéric Majorczyk), defended in 2024
+- Adrien Schoen on network packets generation for IDS evaluation (with Ludovic Mé, Éric Totel, Yufei Han and Frédéric Majorczyk), defended in 2024
+
+I was also involved in various PhD: [Malcolm Bourdon](http://theses.fr/s261687) (defended in 2021), [Aliénor Damien](http://theses.fr/2020ISAT0001) (defended in 2020) and [Jonathan Roux](http://theses.fr/2020TOU30011) (defended in 2020).
 
 ### Scientific events and dissemination
 - ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"
