@@ -34,7 +34,7 @@ REV is a project of the PEPR Cybersécurité. It addresses the following challen
 ## Other collaborations
 
 I regularly work with researchers from:
-- DGA-MI (Bruz) on intrusion detection
+- DGA-MI and AMIAD (Bruz) on intrusion detection
 - Institut Mines-Télécom (Palaiseau) on data generation
 - IRIT (Toulouse) on machine learning
 - LAAS-CNRS (Toulouse) on formal language theory applied to security
