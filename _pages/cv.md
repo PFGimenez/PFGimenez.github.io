@@ -48,7 +48,7 @@ I was also involved in various PhD: [Malcolm Bourdon](http://theses.fr/s261687) 
 - ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"
 - Seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) since 2020 (about 50 talks) and of the PIRAT team (<https://team.inria.fr/pirat/pirat-biweekly-seminars/>) since 2024
 - Doctoral paper reading group "Papers Please" for CIDRE (<https://team.inria.fr/cidre/papers-please/>) since 2022 and for PIRAT (<https://team.inria.fr/pirat/papers-please/>) since 2024
-- Youtube page of the team (<https://www.youtube.com/@cidre-team>) since 2020
+- Youtube page of the team (<https://www.youtube.com/@pirat-research-team>) since 2020
 - Various scientific events in the team
 
 ### PhD defense jury member
