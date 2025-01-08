@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Inria](https://www.inria.fr/) (Rennes, France) in the [PIRAT](https://team.inria.fr/pirat/) research team (ex-[CIDRE](https://team.inria.fr/cidre/)) and a member of the [LHS](https://www.lhs-rennes.fr/) laboratory at Rennes. I work mostly on intrusion detection systems (IDS), and on how to make them more reliable, more usable, and more assessable:
+I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in the [PIRAT](https://team.inria.fr/pirat/) research team (ex-[CIDRE](https://team.inria.fr/cidre/)) and a member of the [LHS](https://www.lhs-rennes.fr/) laboratory at Rennes. I work mostly on intrusion detection systems (IDS), and on how to make them more reliable, more usable, and more assessable:
 - by designing new XAI tools to explain behavioral, semi-supervised IDS
 - by proposing new representations of cybersecurity data (network communications, malware dynamic analysis, etc.)
 - by devising new techniques of synthetic network traffic generation based on explainable AI and data mining
@@ -16,6 +16,7 @@ I am a researcher at [Inria](https://www.inria.fr/) (Rennes, France) in the [PIR
 **I am hiring!**
 - Post-doctoral position on white-box and black-box web application fuzzing based on formal grammars (part of the REV project, with LAAS-CNRS), starting September 2025
 - PhD position on transfer learning for network data generation (with DGA), starting September 2025
+- PhD position on network intrusion detection systems using auto-encoders (with the start-up Custocy), starting 2025
 
 # Ongoing collaborations
 
