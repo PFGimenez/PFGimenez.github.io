@@ -10,9 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Recent positions
-- Since 2024: Research fellow in cybersecurity and artificial intelligence
+- Since 2024: Research scientist in cybersecurity and artificial intelligence
     - Inria (Rennes, France)
     - Intrusion detection and security data generation
+    - Also part-time professor at CentraleSupélec
 - 2020--2024: Cybersecurity chair as an associate professor
     - CentraleSupélec and Inria (Rennes, France)
     - Intrusion detection and malware analysis
@@ -43,6 +44,10 @@ Alumni PhD:
 - Adrien Schoen on network packets generation for IDS evaluation (with Ludovic Mé, Éric Totel, Yufei Han and Frédéric Majorczyk), defended in 2024
 
 I was also involved in various PhD: [Malcolm Bourdon](http://theses.fr/s261687) (defended in 2021), [Aliénor Damien](http://theses.fr/2020ISAT0001) (defended in 2020) and [Jonathan Roux](http://theses.fr/2020TOU30011) (defended in 2020).
+
+### Teaching activity
+
+I am a part-time professor at CentraleSupélec. You can find more details about my teaching [here](/teaching/).
 
 ### Scientific events and dissemination
 - ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"

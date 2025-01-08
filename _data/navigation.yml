@@ -6,6 +6,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  # - title: "Fos-R"
+  #   url: /fosr/
+
   - title: "Software"
     url: /software/
 
@@ -14,4 +17,5 @@ main:
             
   - title: "CV"
     url: /cv/
-    
+
+  
