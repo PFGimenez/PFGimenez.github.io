@@ -22,7 +22,7 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 
 ## Inria’s Principal Investigator of [SecGen](https://files.inria.fr/secgen) (2023-2025)
 
-SecGen is an associated team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
+SecGen is an associate team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
 
 ## [Superviz](https://superviz.inria.fr/) (2022-2028)
 
