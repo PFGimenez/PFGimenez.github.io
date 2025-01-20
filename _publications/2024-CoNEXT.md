@@ -6,4 +6,5 @@ date: 2024-12-09
 venue: '20th International Conference on emerging Networking EXperiments and Technologies (CoNEXT)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3696407'
 citation: 'Cüppers, J., Schoen, A., Blanc, G. & Gimenez, P. F., (2024, December). FlowChronicle: Synthetic Network Flow Generation through Pattern Set Mining Generation. In the 20th International Conference on emerging Networking EXperiments and Technologies (CoNEXT).'
+fosr: true
 ---
