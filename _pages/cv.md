@@ -62,10 +62,6 @@ I am a part-time professor at CentraleSupélec. You can find more details about 
 - Mohamed El Bouazzati (2023, Université Bretagne Sud)
 - Malcolm Bourdon (2021, LAAS-CNRS)
 
-### CSID member
-- Clément Parssegny (2023-2025)
-- Léa Kenmogne (2023-2025)
-
 ### PC member and reviewer
 
 #### Security conferences
