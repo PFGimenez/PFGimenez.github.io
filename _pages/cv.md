@@ -34,7 +34,7 @@ I am a member of several "PEPR Cybersécurité" projects:
 I am the Inria’s PI (principal investigator) of the [SecGen](https://files.inria.fr/secgen) associate team with CISPA. This project is dedicated to synthetic data generation for intrusion detection systems.
 
 ### Doctoral advisor
-I am currently co-supervising 5 PhD students:
+I am currently co-supervising 3 PhD students:
 - Vincent Raulin on dynamic malware analysis (with Valérie Viet Triem Tong and Yufei Han)
 - Grégor Quetel on intrusion detection system by semantics inference based on instrumented parsers (with Laurent Pautet, Thomas Robert and Eric Alata)
 - Fanny Dijoud on intrusion detection system from both applications logs and network traffic packets (with Michel Hurfin, Frédéric Majorczyk and Barbara Pilastre)
@@ -66,8 +66,8 @@ I am a part-time professor at CentraleSupélec. You can find more details about 
 
 #### Security conferences
 - RESSI 2025
+- THCon 2022, 2023, 2024, 2025
 - ERTS 2024
-- THCon 2022, 2023, 2024
 - EICC 2021, 2023
 - DSN 2022
 - Doctoral Forum of DSN 2020
