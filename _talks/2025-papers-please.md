@@ -2,7 +2,7 @@
 title: "Une introduction à la revue systématique de littérature"
 collection: talks
 type: "Talk"
-venue: "Papers please"
+venue: "\"Papers, please\" seminar"
 date: 2025-01-23
 location: "Rennes, France"
 ---
