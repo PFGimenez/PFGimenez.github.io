@@ -14,7 +14,6 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 - by devising new techniques of synthetic network traffic generation based on explainable AI and data mining
 
 **I am hiring!**
-- Post-doctoral position on white-box and black-box web application fuzzing based on formal grammars (part of the REV project, with LAAS-CNRS), starting September 2025
 - PhD position on transfer learning for network data generation (with DGA), starting September 2025
 - PhD position on network intrusion detection systems using auto-encoders (with the start-up Custocy), starting 2025
 
