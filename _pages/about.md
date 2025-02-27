@@ -50,4 +50,8 @@ I regularly work with researchers from:
 
 # Contact
 
+Office F 434
+Centre Inria de l'Université de Rennes
+Campus de Beaulieu, 263 Av. Général Leclerc, 35042 Rennes
+
 [pierre-francois.gimenez@inria.fr](mailto:pierre-francois.gimenez@inria.fr)

@@ -50,7 +50,7 @@ I was also involved in various PhD: [Malcolm Bourdon](http://theses.fr/s261687) 
 
 I am a part-time professor at CentraleSupélec. You can find more details about my teaching [here](/teaching/).
 
-### Expert assessments
+### Other collaborations
 
 I was a member of the working group that lead to the ANSSI publication [Building trust in AI through a cyber risk-based approach](https://cyber.gouv.fr/en/publications/building-trust-ai-through-cyber-risk-based-approach).
 
