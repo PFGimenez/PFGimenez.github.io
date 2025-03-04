@@ -54,6 +54,10 @@ I am a part-time professor at CentraleSupélec. You can find more details about 
 
 I was a member of the working group that lead to the ANSSI publication [Building trust in AI through a cyber risk-based approach](https://cyber.gouv.fr/en/publications/building-trust-ai-through-cyber-risk-based-approach).
 
+### Expert assessments
+
+I occasionally serve as an expert for ANRT (Association Nationale de la Recherche et de la Technologie) and PTCC (Programme de Transfert au Campus Cyber).
+
 ### Scientific events and dissemination
 - ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"
 - Seminars of the CIDRE team (<https://team.inria.fr/cidre/research/seminars/>) since 2020 (about 50 talks) and of the PIRAT team (<https://team.inria.fr/pirat/pirat-biweekly-seminars/>) since 2024
