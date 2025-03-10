@@ -17,15 +17,15 @@ Fos-R aims to generate realistic and diverse network and system activity from pa
 
 Fos-R is distributed with [crates.io](https://crates.io/crates/fosr). First, install Rust with [rustup](https://rustup.rs/). Then, install the libpcap dependency. On Ubuntu/Debian, you can do:
 
-    apt install libpcap-dev
+`apt install libpcap-dev`
 
 You can install Fos-R with:
 
-    cargo install fosr
+`cargo install fosr`
 
 Then, you can check the install with:
 
-    fosr -V
+`fosr -V`
 
 Compiled binaries will be available at a later date.
 
