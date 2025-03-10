@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Fos-R"
-  #   url: /fosr/
+  - title: "Fos-R"
+    url: /fosr/
 
   - title: "Software"
     url: /software/
