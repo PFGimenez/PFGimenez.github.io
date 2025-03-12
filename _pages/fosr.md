@@ -13,9 +13,13 @@ redirect_from:
 
 Fos-R aims to generate realistic and diverse network and system activity from patterns learned from actual data.
 
-## Setup
+## Download binary
 
-Fos-R is distributed with [crates.io](https://crates.io/crates/fosr). First, install Rust with [rustup](https://rustup.rs/). Then, install the libpcap dependency. On Ubuntu/Debian, you can do:
+You can download last compiled binaries from <https://github.com/Fos-R/Fos-R/releases/latest>.
+
+## Compile from source
+
+You can also compile Fos-R from source directly. Fos-R is distributed with [crates.io](https://crates.io/crates/fosr). First, install Rust with [rustup](https://rustup.rs/). Then, install the libpcap dependency. On Ubuntu/Debian, you can do:
 
 `apt install libpcap-dev`
 
@@ -25,9 +29,17 @@ You can install Fos-R with:
 
 Then, you can check the install with:
 
-`fosr -V`
+`fosr`
 
-Compiled binaries will be available at a later date.
+## Real-world uses
+
+### BreizhCTF 2025
+
+Fos-R created background network traffic during the [BreizhCTF 2025](https://www.breizhctf.com/) hacking competition for about 600 participants. During that competition, Fos-R was deployed on 750 virtual machines for a total of 23,000 cumulated hours.
+
+### URSID
+
+Fos-R is integrated as an option to [Ursid](https://ursid.readthedocs.io/en/latest/).
 
 ## Related software
 
