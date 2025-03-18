@@ -74,9 +74,9 @@ I occasionally serve as an expert for ANRT (Association Nationale de la Recherch
 ### PC member and reviewer
 
 #### Security conferences
+- ERTS 2024, 2026
 - RESSI 2025
 - THCon 2022, 2023, 2024, 2025
-- ERTS 2024
 - EICC 2021, 2023
 - DSN 2022
 - Doctoral Forum of DSN 2020

@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /fosr/
-title: "Fos-R"
+title: ""
 author_profile: true
 redirect_from: 
   - /fosr.html
@@ -10,6 +10,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+![](../images/fosr.png)
+
 
 Fos-R aims to generate realistic and diverse network and system activity from patterns learned from actual data.
 
