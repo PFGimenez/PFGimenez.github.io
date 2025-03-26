@@ -17,11 +17,15 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 - PhD position on transfer learning for network data generation (with DGA), starting September 2025
 - PhD position on network intrusion detection systems using auto-encoders (with the start-up Custocy), starting 2025
 
+# Future events
+
+I am co-organizing the [ANUBIS workshop](https://superviz.inria.fr/anubis25/) at ESORICS25 on the evaluation of intrusion detection systems. Submission deadline is June 7th.
+
 # Ongoing collaborations
 
-## Inria’s Principal Investigator of [SecGen](https://files.inria.fr/secgen) (2023-2025)
+## [SecGen](https://files.inria.fr/secgen) (2023-2025)
 
-SecGen is an associate team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
+I am the PI (principal invertigator) of SecGen, an associate team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
 
 ## DeceptIA (2025-2027)
 
