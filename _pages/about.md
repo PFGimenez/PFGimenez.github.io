@@ -27,9 +27,9 @@ I am co-organizing the [ANUBIS workshop](https://superviz.inria.fr/anubis25/) at
 
 I am the PI (principal invertigator) of SecGen, an associate team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
 
-## DeceptIA (2025-2027)
+## DeceptAI (2025-2027)
 
-DeceptIA is an associate team between Inria, DFKI (Germany) and Osaka Metropolitan University (Japan). It seeks to answer the following research questions: what are the characteristics of new anomalous traffic observed in large-scale honeypots deployed across multiple geolocations and services? How can we make honeypots adapt on-the-fly to the attacker's behavior and also evolve interaction between them? How can we develop an effective phishing detection system that not only accurately identifies phishing attacks, but also educates and explains the risks to end-users in a way that increases their awareness and resilience to future phishing attempts?
+DeceptAI is an associate team between Inria, DFKI (Germany) and Osaka Metropolitan University (Japan). It seeks to answer the following research questions: what are the characteristics of new anomalous traffic observed in large-scale honeypots deployed across multiple geolocations and services? How can we make honeypots adapt on-the-fly to the attacker's behavior and also evolve interaction between them? How can we develop an effective phishing detection system that not only accurately identifies phishing attacks, but also educates and explains the risks to end-users in a way that increases their awareness and resilience to future phishing attempts?
 
 ## [Superviz](https://superviz.inria.fr/) (2022-2028)
 
