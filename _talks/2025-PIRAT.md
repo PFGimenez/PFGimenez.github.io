@@ -3,7 +3,7 @@ title: "Towards more realistic honeypots with synthetic network traffic injectio
 collection: talks
 type: "Talk"
 venue: "PIRAT seminars"
-date: 2025-05-16
+date: 2025-04-16
 location: "CentraleSupélec, Rennes, France"
 ---
 
