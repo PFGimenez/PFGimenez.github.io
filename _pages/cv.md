@@ -56,7 +56,7 @@ I was a member of the working group that lead to the ANSSI publication [Building
 
 ### Expert assessments
 
-I occasionally serve as an expert for ANRT (Association Nationale de la Recherche et de la Technologie) and PTCC (Programme de Transfert au Campus Cyber).
+I occasionally serve as an expert for ANR (Agence Nationale de la Recherche), ANRT (Association Nationale de la Recherche et de la Technologie) and PTCC (Programme de Transfert au Campus Cyber).
 
 ### Scientific events and dissemination
 - ["Hands-on machine learning for security" event](https://team.inria.fr/cidre/hands-on-machine-learning-for-security/), sponsored by the "GDR Sécurité Informatique"

@@ -6,4 +6,4 @@ license: GPLv3
 fosr: true
 ---
 
-Software in development.
+Check <https://pfgimenez.fr/fosr/> for more information.
