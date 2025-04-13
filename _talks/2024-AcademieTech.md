@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 venue: "Académie des Technologies"
 date: 2024-03-11
-location: "En visioconférence"
+location: "Rennes, France"
 ---
 
 Dans cette présentation, je vais faire un tour d’horizon des modélisations de données de sécurité et montrer l’importance qu’elles ont pour une utilisation avec des techniques d’apprentissage automatique. [Slides](https://pfgimenez.fr/files/academie-techno.pdf)

@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 venue: "Séminaire des experts du Groupe Orange"
 date: 2024-06-26
-location: "Couvent des Jacobins, Rennes"
+location: "Rennes, France"
 ---
 
 This event has been cancelled.
