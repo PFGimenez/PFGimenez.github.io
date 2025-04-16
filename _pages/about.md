@@ -13,10 +13,6 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 - by proposing new representations of cybersecurity data (network communications, malware dynamic analysis, etc.)
 - by devising new techniques of synthetic network traffic generation based on explainable AI and data mining
 
-**I am hiring!**
-- PhD position on transfer learning for network data generation (with DGA), starting September 2025
-- PhD position on network intrusion detection systems using auto-encoders (with the start-up Custocy), starting 2025
-
 # Future events
 
 I am co-organizing the [ANUBIS workshop](https://superviz.inria.fr/anubis25/) at ESORICS25 on the evaluation of intrusion detection systems. Submission deadline is June 7th.
