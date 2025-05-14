@@ -83,7 +83,7 @@ I occasionally serve as an expert for ANR (Agence Nationale de la Recherche), AN
 - ISSRE 2020
 
 #### Artificial intelligence conferences
-- ARTMAN 2023, 2024
+- ARTMAN 2023, 2024, 2025
 - ECAI 2023
 - AAAI 2021, 2022
 - IJCAI 2020
