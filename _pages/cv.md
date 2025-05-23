@@ -75,6 +75,7 @@ I occasionally serve as an expert for ANR (Agence Nationale de la Recherche), AN
 
 #### Security conferences
 - ERTS 2024, 2026
+- ESORICS 2025
 - RESSI 2025
 - THCon 2022, 2023, 2024, 2025
 - EICC 2021, 2023
