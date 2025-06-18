@@ -22,17 +22,17 @@ You can download last compiled binaries from <https://github.com/Fos-R/Fos-R/rel
 
 ## Compile from source
 
-You can also compile Fos-R from source directly. Fos-R is distributed with [crates.io](https://crates.io/crates/fosr). First, install Rust with [rustup](https://rustup.rs/). Then, install the libpcap dependency. On Ubuntu/Debian, you can do:
-
-`apt install libpcap-dev`
-
-You can install Fos-R with:
+You can also compile Fos-R from source directly. Fos-R is distributed with [crates.io](https://crates.io/crates/fosr). First, install Rust with [rustup](https://rustup.rs/). Then, you can install Fos-R with:
 
 `cargo install fosr`
 
-Then, you can check the install with:
+You can check the install with:
 
 `fosr`
+
+## Library
+
+Fos-R also includes a Rust library that exposes the main part of the software. Its documentation is [here](https://pirat-public.gitlabpages.inria.fr/Fos-R/doc/fosr/index.html).
 
 ## Real-world uses
 
