@@ -13,7 +13,6 @@ redirect_from:
 
 ![](../images/fosr.png)
 
-
 Fos-R aims to generate realistic and diverse network and system activity from patterns learned from actual data.
 
 ## Download binary
@@ -71,7 +70,7 @@ Fos-R is integrated as an option to [Ursid](https://ursid.readthedocs.io/en/late
 
 - Inria: Pierre-François Gimenez, Adrien Schoen
 - CISPA: Lénaïg Cornanguer, Joscha Cüppers
-- CentraleSupélec: Evan Morin, Florentin Labelle
+- CentraleSupélec: Dorian Bachelot, Evan Morin, Florentin Labelle
 
 ## Links
 
