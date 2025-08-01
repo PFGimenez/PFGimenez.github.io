@@ -6,11 +6,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Software"
+    url: /software/
+
   - title: "Fos-R"
     url: /fosr/
 
-  - title: "Software"
-    url: /software/
+  - title: "ANUBIS"
+    url: https://superviz.inria.fr/anubis25/
 
   # - title: "Teaching"
     # url: /teaching/    
