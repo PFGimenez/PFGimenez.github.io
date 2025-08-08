@@ -1,0 +1,9 @@
+---
+title: "ROSCA: Robust and Scalable Security Alert Correlation and Prioritisation using the MITRE ATT&CK Framework"
+collection: publications
+excerpt: "In large organisations and complex infrastructures, the overwhelming volume of security alerts often results in analyst fatigue, delayed responses, and missed attacks. Moreover, Security Operations Centers (SOCs) typically rely on commercial solutions that operate as black boxes, offering limited transparency into their alert classification mechanisms and lacking the flexibility for in-house adaptation or re-implementation. To address these limitations and improve situational awareness, this paper proposes ROSCA, an efficient alert prioritisation method grounded in the MITRE ATT&CK kill chain model. The proposed approach automatically aggregates and correlates alerts based on their shared attributes, enabling the construction of contextualised cases. Each case is then assigned a score reflecting its threat relevance and urgency, before being presented to analysts within a prioritised queue. Our method emphasises the detection of multi-stage attack patterns and supports rapid processing through a robust, noise-tolerant scoring mechanism designed for interpretability and operational integration. We validate the effectiveness of ROSCA using real-world alert data and compare it against the MATE framework, demonstrating superior prioritisation accuracy and more reliable identification of critical alerts."
+date: 2025-10-17
+venue: "First International Workshop on Analytics, Telemetry, and Cybersecurity for HPCC (High Performance Computing and Communications) (WATCH2025)"
+paperurl: ''
+citation: "Garcia, R., Lahmadi, A., Gimenez, P. F. & Sala, C. ROSCA: Robust and Scalable Security Alert Correlation and Prioritisation using the MITRE ATT&CK Framework. First International Workshop on Analytics, Telemetry, and Cybersecurity for HPCC (High Performance Computing and Communications) (WATCH2025)"
+---
