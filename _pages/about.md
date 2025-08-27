@@ -17,7 +17,7 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 
 I am co-organizing the [ANUBIS workshop](https://superviz.inria.fr/anubis25/) at ESORICS25 on the evaluation of intrusion detection systems.
 
-I am co-organizing the [European Symposium on Security and AI (ESSAI)](http://essai-conference.eu/) at ECW’25 in Rennes, France.
+<!-- I am co-organizing the [European Symposium on Security and AI (ESSAI)](http://essai-conference.eu/) at ECW’25 in Rennes, France. -->
 
 # Ongoing collaborations
 
