@@ -28,10 +28,11 @@ redirect_from:
 
 ### Research projects
 I am a member of several "PEPR Cybersécurité" projects:
-- [Superviz](https://files.inria.fr/superviz/), on supervision for security
-- [REV](https://rev.s3.eurecom.fr/), on vulnerability identification and exploitation
+- [Superviz](https://files.inria.fr/superviz/), on supervision for security;
+- [REV](https://rev.s3.eurecom.fr/), on vulnerability identification and exploitation;
+- [DefMal](https://pepr-defmal.loria.fr/fr/) on malware analysis.
 
-I am the Inria’s PI (principal investigator) of the [SecGen](https://files.inria.fr/secgen) associate team with CISPA. This project is dedicated to synthetic data generation for intrusion detection systems.
+I am the Inria’s PI (principal investigator) of the [SecGen](https://files.inria.fr/secgen) associate team with CISPA. This project is dedicated to synthetic data generation for intrusion detection systems. I am also a member of the DeceptIA associate team with DFKI and Osaka Metropolitan University.
 
 ### Doctoral advisor
 I am currently co-supervising 4 PhD students:
