@@ -13,9 +13,6 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 - by proposing new representations of cybersecurity data (network communications, malware dynamic analysis, etc.)
 - by devising new techniques of synthetic network traffic generation based on explainable AI and data mining
 
-# Future events
-
-I am co-organizing the [ANUBIS workshop](https://superviz.inria.fr/anubis25/) at ESORICS25 on the evaluation of intrusion detection systems.
 
 # PhD students supervision
 
