@@ -25,10 +25,6 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 
 DeceptIA (Deception Technologies for Honeypots with Intelligence and Adaptability) is an associate team between Inria, DFKI (Germany) and Osaka Metropolitan University (Japan). It seeks to answer the following research questions: what are the characteristics of new anomalous traffic observed in large-scale honeypots deployed across multiple geolocations and services? How can we make honeypots adapt on-the-fly to the attacker's behavior and also evolve interaction between them? How can we develop an effective phishing detection system that not only accurately identifies phishing attacks, but also educates and explains the risks to end-users in a way that increases their awareness and resilience to future phishing attempts?
 
-## [SecGen](https://files.inria.fr/secgen) (2023-2025)
-
-I am the PI (principal invertigator) of SecGen, an associate team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
-
 ## [REV](https://rev.s3.eurecom.fr) (2023-2028)
 
 REV is a project of the PEPR Cybersécurité. It addresses the following challenges: (i) holistic vulnerability analysis, from hardware to software to communications, (ii) characterization and understanding of the degrees of exploitation and the ability to circumvent modern protections, and (iii) vulnerability analysis's legal aspects (ethical issues, fairness of digital evidence).
@@ -40,6 +36,12 @@ Superviz is a project of the [PEPR Cybersécurité](https://www.pepr-cybersecuri
 ## [DefMal](https://pepr-defmal.loria.fr/fr/) (2022-2028)
 
 The DefMal project focuses on the fight against malware: a subject that affects the entire digital environment, including connected objects (IoT), embedded systems (drones), autonomous vehicles (cars), industrial systems (ICS/Scada) and, of course, the entire IT infrastructure (cloud, smartphones, firmware).
+
+# Past collaborations
+
+## [SecGen](https://files.inria.fr/secgen) (2023-2025)
+
+I was the PI (principal invertigator) of SecGen, an associate team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
 
 ## Other collaborations
 
