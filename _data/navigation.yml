@@ -10,7 +10,7 @@ main:
     url: /software/
 
   - title: "Fos-R"
-    url: /fosr/
+    url: https://fosr.inria.fr
 
   - title: "ANUBIS"
     url: https://superviz.inria.fr/anubis25/
