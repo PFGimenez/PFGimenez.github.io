@@ -39,7 +39,7 @@ The DefMal project focuses on the fight against malware: a subject that affects 
 
 # Past collaborations
 
-## [SecGen](https://files.inria.fr/secgen) (2023-2025)
+## [SecGen](https://pfgimenez.fr/secgen) (2023-2025)
 
 I was the PI (principal invertigator) of SecGen, an associate team ("Équipe Associée") between Inria and CISPA (Saarbrücken, Germany). Security datasets are essential for research, but their quality is disputed: age, lack of diversity, human errors, etc. We propose to generate synthetic data to alleviate such issues. We plan to use data mining to generate network traces with proper temporal dependencies to generate more faithful data with less training data. This dataset will be evaluated with the performances of a network intrusion detection system.
 
