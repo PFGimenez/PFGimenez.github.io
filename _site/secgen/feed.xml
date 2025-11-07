@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Website of the SecGen associate team between Inria and CISPA</description>
+    <link>https://pfgimenez.fr/secgen/</link>
+    <atom:link href="https://pfgimenez.fr/secgen/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 07 Nov 2025 11:58:07 +0900</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2025 11:58:07 +0900</lastBuildDate>
+    <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>SecGen article published at IFIP SEC&apos;25</title>
+        <description>&lt;p&gt;Following the collaboration between Pierre-François Gimenez (Inria) and Sarath Sivaprasad and Mario Fritz (CISPA), an article has been published to the &lt;a href=&quot;https://sec2025.um.si/&quot;&gt;IFIP SEC conference&lt;/a&gt;: &lt;em&gt;“Certifiably robust malware detectors by design”&lt;/em&gt;. Congratulations to them!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Malware analysis involves analyzing suspicious software to detect malicious payloads. Static malware analysis, which does not require software execution, relies increasingly on machine learning techniques to achieve scalability. Although such techniques obtain very high detection accuracy, they can be easily evaded with adversarial examples where a few modifications of the sample can dupe the detector without modifying the behaviour of the software. Unlike other domains, such as computer vision, creating an adversarial example for malware without altering its functionality requires specific transformations. We propose a new model architecture that can lead to certifiably robust malware detection by design. In addition, we show that every robust detector can be decomposed into a specific structure, which can be applied to learn empirically robust malware detectors, even on fragile features. Our framework ERDALT is based on this structure. We compare and validate these approaches with machine-learning-based malware detection methods, allowing for robust detection with limited reduction in detection performance.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Mar 2025 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2025/ifipsec-publication/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2025/ifipsec-publication/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SecGen article published at SDM&apos;25</title>
+        <description>&lt;p&gt;Following the collaboration between Pierre-François Gimenez (Inria) and Lénaïg Cornanguer (CISPA), an article has been published to the &lt;a href=&quot;https://www.siam.org/conferences-events/siam-conferences/sdm25/&quot;&gt;SDM conference&lt;/a&gt;: &lt;em&gt;“TADAM: Learning Timed Automata From Noisy Observations”&lt;/em&gt;. Congratulations to them!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Timed Automata (TA) are formal models capable of representing regular languages with timing constraints, making them well-suited for modeling systems where behavior is driven by events occurring over time. Most existing work on TA learning relies on active learning, where access to a teacher is assumed to answer membership queries and provide counterexamples. While this framework offers strong theoretical guarantees, it is impractical for many real-world applications where such a teacher is unavailable. In contrast, passive learning approaches aim to infer TA solely from sequences accepted by the target automaton. However, current methods struggle to handle noise in the data, such as symbol omissions, insertions, or permutations, often resulting in excessively large and inaccurate automata. In this paper, we introduce TADAM, a novel approach that leverages the Minimum Description Length (MDL) principle to balance model complexity and data fit, allowing it to distinguish between meaningful patterns and noise. We show that TADAM is significantly more robust to noisy data than existing techniques, less prone to overfitting, and produces concise models that can be manually audited. We further demonstrate its practical utility through experiments on real-world tasks, such as network flow classification and anomaly detection.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Jan 2025 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2025/sdm-publication/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2025/sdm-publication/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Best Community Paper at ACM CoNEXT!</title>
+        <description>&lt;p&gt;The article from the joint work of Adrien Schoen (Inria) and Joscha Cüppers (CISPA) received the “Best Community Paper” award at the ACM CoNEXT conference. Congratulations!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://files.inria.fr/secgen/assets/images/best_paper.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Dec 2024 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2024/conext-best-paper/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2024/conext-best-paper/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lénaïg Cornanguer’s visit at Inria</title>
+        <description>&lt;p&gt;Lénaïg Cornanguer, post-doctoral researcher at Inria, will visit the PIRAT team at Inria in October 2024. The goal of this visit is to identify new research questions on the applications of causality identification to cybersecurity.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Oct 2024 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2024/lenaig-visit/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2024/lenaig-visit/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SecGen article published at CoNEXT&apos;24</title>
+        <description>&lt;p&gt;Following the collaboration between Adrien Schoen (Inria) and Joscha Cüppers (CISPA), an article has been published to the &lt;a href=&quot;https://conferences.sigcomm.org/co-next/2024/#!/home&quot;&gt;CoNEXT conference&lt;/a&gt;: “FlowChronicle: Synthetic Network Flow Generation through Pattern Set Mining”. Congratulations to them!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Network traffic datasets are regularly criticized, notably for the lack of realism and diversity in their attack or benign traffic. Generating synthetic network traffic using generative machine learning techniques is a recent area of research that could complement experimental test beds and help assess the efficiency of network security tools such as network intrusion detection systems. Most methods generating synthetic network flows disregard the temporal dependencies between them, leading to unrealistic traffic. To address this issue, we introduce FlowChronicle, a novel synthetic network flow generation tool that relies on pattern mining and statistical models to preserve temporal dependencies. We empirically compare our method against state-of-the-art techniques on several criteria, namely realism, diversity, compliance, and novelty. This evaluation demonstrates the capability of FlowChronicle to achieve high-quality generation while significantly outperforming the other methods in preserving temporal dependencies between flows. Besides, in contrast to deep learning methods, the patterns identified by FlowChronicle are explainable, and experts can verify their soundness. Our work substantially advances synthetic network traffic generation, offering a method that enhances both the utility and trustworthiness of the generated network flows.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Sep 2024 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2024/conext-publication/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2024/conext-publication/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SecGen 2nd plenary meeting</title>
+        <description>&lt;p&gt;The second SecGen plenary will happen on March 6th at CISPA, Saarbrücken.&lt;/p&gt;
+
+&lt;h1 id=&quot;program&quot;&gt;Program&lt;/h1&gt;
+
+&lt;h2 id=&quot;session-on-data-mining-and-generation&quot;&gt;Session on data mining and generation&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;width:15%&quot;&gt;Time&lt;/th&gt;
+    &lt;th style=&quot;width:85%&quot;&gt;Talk&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;1:30&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/pfg_intro_24_03.pdf&quot;&gt;Introduction&lt;/a&gt; (Pierre-François Gimenez)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;1:40&lt;/td&gt;
+    &lt;td&gt;FlowChronicle: pattern mining and generation of time series of network data (Joscha Cüppers and Adrien Schoen)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2:10&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/pfg_challenges_24_03.pdf&quot;&gt;New challenges on network data generation&lt;/a&gt; (Pierre-François Gimenez)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2:30&lt;/td&gt;
+    &lt;td&gt;Discussion on joint research questions&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;3:00&lt;/td&gt;
+    &lt;td&gt;Break&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;session-on-anomaly-detection&quot;&gt;Session on anomaly detection&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;width:15%&quot;&gt;Time&lt;/th&gt;
+    &lt;th style=&quot;width:85%&quot;&gt;Talk&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;3:30&lt;/td&gt;
+    &lt;td&gt;Going Beyond Familiar Features for Deep Anomaly Detection (Sarath Sivaprasad)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;3:50&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/helene_24_03.pdf&quot;&gt;Towards Automated Network Attack Attribution via Density-Aware Active Learning&lt;/a&gt; (Hélène Orsini)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;4:20&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/matthieu_24_03.pdf&quot;&gt;Adversarial Robustness in Network Intrusion Detection System&lt;/a&gt; (Matthieu Mouzaoui)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;4:30&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/fabien_24_03.pdf&quot;&gt;Toward Active Online Anomaly Detection&lt;/a&gt; (Fabien Pesquerel)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;4:40&lt;/td&gt;
+    &lt;td&gt;Discussion on joint research questions&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;4:55&lt;/td&gt;
+    &lt;td&gt;Closing words&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;dinner&quot;&gt;Dinner&lt;/h2&gt;
+
+&lt;p&gt;At Rosenbar, Saarbrücken&lt;/p&gt;
+
+&lt;h1 id=&quot;venue&quot;&gt;Venue&lt;/h1&gt;
+
+&lt;p&gt;The event will happen at CISPA – Helmholtz Center for Information Security, Stuhlsatzenhaus 5, 66123 Saarbrücken&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://files.inria.fr/secgen/assets/images/plenary_24_03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://files.inria.fr/secgen/assets/images/plenary_24_03_all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Mar 2024 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2024/plenary-meeting/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2024/plenary-meeting/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Presentation of SecGen during the CISPA-Inria workshop</title>
+        <description>&lt;p&gt;Members of the SecGen associate team participated at the &lt;a href=&quot;https://cispa.de/en/cispa-inria-workshop-paris2023&quot;&gt;kick-off event for cooperation between CISPA and Inria&lt;/a&gt; that took place at Campus Cyber (Paris) on November 6th. This event gathered about 20 researchers from both sides of the Rhine and should spark new collaborations between the two institutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://files.inria.fr/secgen/assets/images/ws-inria-cispa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Nov 2023 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2023/workshop-inria-cispa/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2023/workshop-inria-cispa/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Adrien Schoen’s stay at CISPA on data generation</title>
+        <description>&lt;p&gt;Adrien Schoen will work at CISPA in Saarbrücken from October 16th to December 15th in collaboration with Joscha Cüppers and Jilles Vreeken. Following the work started with Joscha Cüppers during his stay at Inria, Adrien will work on generating sequences of flow descriptions from a set of patterns obtained by data mining. His second scientific challenge is the evaluation of temporal generated data.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Sep 2023 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2023/adrien-stay/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2023/adrien-stay/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Joscha Cüppers’ stay at Inria on data mining</title>
+        <description>&lt;p&gt;Joscha Cüppers will work at Inria in Rennes from July 18th to September 1st in collaboration with Adrien Schoen, Pierre-François Gimenez, and Frédéric Majorczyk. Their work will focus on adapting data mining methods based on MDL learning to extract patterns from sequences of flow descriptions. Network flow description sequences offer unique challenges and opportunities requiring significant changes to state-of-the-art methods.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jun 2023 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2023/joscha-stay/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2023/joscha-stay/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SecGen kick-off meeting</title>
+        <description>&lt;p&gt;The kick-off meeting of the &lt;b&gt;SecGen&lt;/b&gt; associate team will happen on June 21st at Campus Cyber, near Paris. This meeting will be the occasion for Inria and CISPA participants to meet and discuss the research questions they want to explore together. For this reason, it will be composed of presentations of recent works and brainstorming sessions.&lt;/p&gt;
+
+&lt;h1 id=&quot;program&quot;&gt;Program&lt;/h1&gt;
+
+&lt;h2 id=&quot;session-on-data-mining-and-generation&quot;&gt;Session on data mining and generation&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;width:15%&quot;&gt;Time&lt;/th&gt;
+    &lt;th style=&quot;width:85%&quot;&gt;Talk&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;10:50&lt;/td&gt;
+    &lt;td&gt;Introduction (Pierre-François Gimenez, Ludovic Mé)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;11:00&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/joscha_23_06.pdf&quot;&gt;Summarizing Event Sequences with Generalized Sequential Patterns&lt;/a&gt; (Joscha Cüppers)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;11:30&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/pfg_23_06.pdf&quot;&gt;Network traffic generation: a non-technical look at its characteristics and stakes&lt;/a&gt; (Pierre-François Gimenez)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;12:00&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/adrien_23_06.pdf&quot;&gt;A Tale of Two Methods: Unveiling the limitations of GAN and the Rise of Bayesian Networks for Network Traffic Data Generation&lt;/a&gt; (Adrien Schoen)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;12:30&lt;/td&gt;
+    &lt;td&gt;Discussion on joint research questions&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;session-on-anomaly-detection&quot;&gt;Session on anomaly detection&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;width:15%&quot;&gt;Time&lt;/th&gt;
+    &lt;th style=&quot;width:85%&quot;&gt;Talk&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2:30&lt;/td&gt;
+    &lt;td&gt;Going beyond feature familiarity for anomaly detection for neural networks (Sarath Sivaprasad)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;3:00&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;https://files.inria.fr/secgen/assets/pdf/helene_23_06.pdf&quot;&gt;Auto-ML Pipeline for Network Attack Incident Detection and Classification&lt;/a&gt; (Hélène Orsini)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;3:30&lt;/td&gt;
+    &lt;td&gt;Discussion on joint research questions&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;3:55&lt;/td&gt;
+    &lt;td&gt;Closing speech&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;venue&quot;&gt;Venue&lt;/h1&gt;
+
+&lt;p&gt;The event will happen at Campus Cyber, 5 Rue Bellini 7, 92800 Puteaux, in capsule 02 on level 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://files.inria.fr/secgen/assets/images/kickoff.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Jun 2023 00:00:00 +0900</pubDate>
+        <link>https://pfgimenez.fr/secgen/2023/kickoff-meeting/</link>
+        <guid isPermaLink="true">https://pfgimenez.fr/secgen/2023/kickoff-meeting/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
