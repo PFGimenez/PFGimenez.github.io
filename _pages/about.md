@@ -21,7 +21,7 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 
 # Ongoing collaborations
 
-## DeceptIA (2025-2027)
+## [DeceptIA](https://deceptia.gitlabpages.inria.fr/web/index.html) (2025-2027)
 
 DeceptIA (Deception Technologies for Honeypots with Intelligence and Adaptability) is an associate team between Inria, DFKI (Germany) and Osaka Metropolitan University (Japan). It seeks to answer the following research questions: what are the characteristics of new anomalous traffic observed in large-scale honeypots deployed across multiple geolocations and services? How can we make honeypots adapt on-the-fly to the attacker's behavior and also evolve interaction between them? How can we develop an effective phishing detection system that not only accurately identifies phishing attacks, but also educates and explains the risks to end-users in a way that increases their awareness and resilience to future phishing attempts?
 
