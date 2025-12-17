@@ -38,14 +38,14 @@ I am the Inria’s PI (principal investigator) of the [SecGen](https://files.inr
 
 ### Doctoral advisor
 
-I am currently co-supervising 5 PhD students:
-- Vincent Raulin on dynamic malware analysis (with Valérie Viet Triem Tong and Yufei Han)
+I am currently co-supervising 4 PhD students:
 - Grégor Quetel on intrusion detection system by semantics inference based on instrumented parsers (with Laurent Pautet, Thomas Robert and Eric Alata)
 - Fanny Dijoud on intrusion detection system from both applications logs and network traffic packets (with Michel Hurfin, Frédéric Majorczyk and Barbara Pilastre)
 - Solène Delourme on automatic detection and response in SOC with generative AI (with Jean-François Lalande, Tony Quertier and Colin Leverger)
 - Antoine Cellier on synthetic network and system data generation (with Gilles Guette and Frédéric Majorczyk)
 
 Alumni PhD:
+- Vincent Raulin on dynamic malware analysis (with Valérie Viet Triem Tong and Yufei Han), defended in 2025
 - Maxime Lanvin on unsupervised intrusion detection in networks (with Ludovic Mé, Grégory Blanc, Yufei Han and Frédéric Majorczyk), defended in 2024
 - Adrien Schoen on network packets generation for IDS evaluation (with Ludovic Mé, Éric Totel, Yufei Han and Frédéric Majorczyk), defended in 2024
 
