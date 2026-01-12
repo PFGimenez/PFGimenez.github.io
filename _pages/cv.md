@@ -86,11 +86,13 @@ I was a member of the working group that lead to the ANSSI publication [Building
 
 I occasionally serve as an expert for ANR (Agence Nationale de la Recherche), ANRT (Association Nationale de la Recherche et de la Technologie) and PTCC (Programme de Transfert au Campus Cyber).
 
+I am also a member of the Technical Committee of the PTCC.
+
 #### Security conferences
+- THCon 2022, 2023, 2024, 2025, 2026
 - ERTS 2024, 2026
 - ESORICS 2025
 - RESSI 2025
-- THCon 2022, 2023, 2024, 2025
 - EICC 2021, 2023
 - DSN 2022
 - Doctoral Forum of DSN 2020
