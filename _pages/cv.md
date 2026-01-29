@@ -34,7 +34,7 @@ I am a member of several "PEPR Cybersécurité" projects:
 - [REV](https://rev.s3.eurecom.fr/), on vulnerability identification and exploitation;
 - [DefMal](https://pepr-defmal.loria.fr/fr/) on malware analysis.
 
-I am the Inria’s PI (principal investigator) of the [SecGen](https://files.inria.fr/secgen) associate team with CISPA. This project is dedicated to synthetic data generation for intrusion detection systems. I am also a member of the DeceptIA associate team with DFKI and Osaka Metropolitan University.
+I was the Inria’s PI (principal investigator) of the [SecGen](https://files.inria.fr/secgen) associate team with CISPA from 2023 to 2025. This project is dedicated to synthetic data generation for intrusion detection systems. I am also a member of the DeceptIA associate team with DFKI and Osaka Metropolitan University since 2025.
 
 ### Doctoral advisor
 
