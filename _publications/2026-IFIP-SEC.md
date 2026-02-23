@@ -1,0 +1,9 @@
+---
+title: "Parser Instrumentation for Semantic-Aware Applicative Intrusion Detection"
+collection: publications
+excerpt: "Intrusion Detection Systems (IDS) are common security tools for protecting modern information systems, yet their effectiveness at detecting application-layer attacks is often limited by the semantic gap between low-level host or network observations and the actual behavior of applications. Existing work overlook the data collection phase and typically focus on designing complex decision engines and preprocessing functions such as embedding-based representations. Unfortunately, these approaches incur significant computational overhead at inference time and remain brittle against adversarial inputs. In this paper, we present a parser-based instrumentation approach for application-level intrusion detection that provides lexical, syntactic and explicit semantic observation with minimal overhead. We introduce gaur, an implementation for instrumenting parsers, it produces observations during parsing by associating semantic tags to grammar rules, eliminating the need for runtime natural language processing. Our evaluation demonstrates the low overhead and collection time of our data collector. Furthermore, empirical results show that incorporating explicit semantic information into decision engines not only improves detection performance over traditional mechanisms but also enables faster inference and greater robustness than approaches relying on implicit semantic representations."
+date: 2025-06-09
+venue: '41st International Conference on ICT Systems Security and Privacy Protection (IFIPSEC26)'
+paperurl: ''
+citation: 'Quetel, G., Gimenez, P. F., Robert, T. & Pautet, L. (2025 June). Parser Instrumentation for Semantic-Aware Applicative Intrusion Detection. In the 41st International Conference on ICT Systems Security and Privacy Protection (IFIPSEC26)'
+---
