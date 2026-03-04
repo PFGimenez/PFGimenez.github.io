@@ -2,7 +2,7 @@
 title: "Learning timed automata for synthetic network traffic generation"
 collection: talks
 type: "Talk"
-venue: "Les Trans Numériques"
+venue: "Les TransNumériques"
 date: 2026-02-03
 location: "Rennes, France"
 ---
