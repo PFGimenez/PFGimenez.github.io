@@ -107,6 +107,7 @@ I am also a member of the Technical Committee of the PTCC.
 
 #### Journals
 - IEEE Network
+- IEEE Transactions on Network Service Management
 - Transactions on Computers
 - International Journal of Information Security
 - Computers & Security
