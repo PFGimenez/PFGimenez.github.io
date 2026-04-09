@@ -53,7 +53,7 @@ I was also involved in various PhD: [Malcolm Bourdon](http://theses.fr/s261687) 
 
 ### Organization of workshop with proceedings
 
-I co-organized the [ANUBIS workshop](https://superviz.inria.fr/anubis25/) at ESORICS25 on the evaluation of intrusion detection systems.
+I co-organized the [ANUBIS’25 workshop](https://superviz.inria.fr/anubis25/) at ESORICS25 on the evaluation of intrusion detection systems, and I am co-organizing [ANUBIS’26 workshop](https://superviz.inria.fr/anubis26/) at ESORICS26.
 
 ### Teaching activity
 
