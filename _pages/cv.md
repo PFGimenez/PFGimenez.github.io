@@ -91,7 +91,7 @@ I am also a member of the Technical Committee of the PTCC.
 #### Security conferences
 - THCon 2022, 2023, 2024, 2025, 2026
 - ERTS 2024, 2026
-- ESORICS 2025
+- ESORICS 2025, 2026
 - RESSI 2025
 - EICC 2021, 2023
 - DSN 2022
