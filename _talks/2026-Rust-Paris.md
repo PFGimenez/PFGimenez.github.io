@@ -3,7 +3,7 @@ title: "Rust pour la recherche: retour d’expérience"
 collection: talks
 type: "Talk"
 venue: "Rust Paris 2026"
-date: 2026-06-26
+date: 2026-06-09
 location: "Paris, France"
 ---
 
