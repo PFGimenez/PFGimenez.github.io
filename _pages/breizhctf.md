@@ -9,9 +9,7 @@ The [BreizhCTF](https://www.breizhctf.com/) is the largest in-person CTF competi
 
 # 2026 -- SKY_FALL[M]
 
-<center>
 ![](https://pfgimenez.fr/images/skyfallm_logo.png)
-</center>
 
 ![](https://pfgimenez.fr/images/bctf26.jpg)
 
@@ -24,9 +22,7 @@ Links: TBA
 
 # 2025 -- PIRHACK
 
-<center>
 ![](https://pfgimenez.fr/images/pirhack_logo.png)
-</center>
 
 ![](https://pfgimenez.fr/images/bctf25.jpg)
 
@@ -41,9 +37,7 @@ Links:
 
 # 2024 -- CasinoLimit
 
-<center>
 ![](https://pfgimenez.fr/images/casinolimit_logo.png)
-</center>
 
 - Keywords: lateral movement, Web exploitation
 - Authors: Sébastien Kilian, Valérie Viet Triem Tong, Jean-François Lalande, Alexandre Sanchez, Natan Talon, Pierre-François Gimenez
