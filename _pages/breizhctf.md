@@ -1,7 +1,6 @@
 ---
 permalink: /breizhctf/
 title: "BreizhCTF Challenges"
-modified: 2016-06-06
 ---
 
 {% include base_path %}
@@ -10,7 +9,7 @@ The [BreizhCTF](https://www.breizhctf.com/) is the largest in-person CTF competi
 
 ## 2026 -- SKY_FALL[M]
 
-![](https://pfgimenez.fr/images/skyfallm_logo.jpg)
+![](https://pfgimenez.fr/images/skyfallm_logo.png)
 
 ![](https://pfgimenez.fr/images/bctf26.jpg)
 
@@ -19,12 +18,11 @@ The [BreizhCTF](https://www.breizhctf.com/) is the largest in-person CTF competi
 
 In this scenario, the player takes on the role of a secret agent (from an unnamed fictional agency). A malicious LLM has taken control of a satellite and is threatening to crash it into Earth. The objective is to infiltrate a company so that the participant can connect to the satellite. At the end of the challenge, participants will come to a (real) Minitel connected to an LLM. Players will have to convince the LLM to reveal a secret to them in order to win the challenge.
 
-Links:
-- TBA
+Links: TBA
 
 ## 2025 -- PIRHACK
 
-![](https://pfgimenez.fr/images/pirhack_logo.jpg)
+![](https://pfgimenez.fr/images/pirhack_logo.png)
 
 ![](https://pfgimenez.fr/images/bctf25.jpg)
 
@@ -39,7 +37,7 @@ Links:
 
 ## 2024 -- CasinoLimit
 
-![](https://pfgimenez.fr/images/casinolimit_logo.jpg)
+![](https://pfgimenez.fr/images/casinolimit_logo.png)
 
 - Keywords: lateral movement, Web exploitation
 - Authors: Sébastien Kilian, Valérie Viet Triem Tong, Jean-François Lalande, Alexandre Sanchez, Natan Talon, Pierre-François Gimenez
