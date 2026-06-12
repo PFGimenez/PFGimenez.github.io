@@ -7,9 +7,11 @@ title: "BreizhCTF Challenges"
 
 The [BreizhCTF](https://www.breizhctf.com/) is the largest in-person CTF competition in France, with about 600 participants distributed in 120 teams. Since 2024, the PIRAT team creates realistic challenges to this CTF, with an emphasis on multiple-steps attacks, recent vulnerabilities, and elaborate scenarios.
 
-## 2026 -- SKY_FALL[M]
+# 2026 -- SKY_FALL[M]
 
+<center>
 ![](https://pfgimenez.fr/images/skyfallm_logo.png)
+</center>
 
 ![](https://pfgimenez.fr/images/bctf26.jpg)
 
@@ -20,9 +22,11 @@ In this scenario, the player takes on the role of a secret agent (from an unname
 
 Links: TBA
 
-## 2025 -- PIRHACK
+# 2025 -- PIRHACK
 
+<center>
 ![](https://pfgimenez.fr/images/pirhack_logo.png)
+</center>
 
 ![](https://pfgimenez.fr/images/bctf25.jpg)
 
@@ -35,9 +39,11 @@ Links:
 - [Challenge repository](https://gitlab.inria.fr/pirat-public/pirhack/pirhack)
 - [Write-up](https://notes.inria.fr/_cCRN8o2SHG54QWWrUBQpA#)
 
-## 2024 -- CasinoLimit
+# 2024 -- CasinoLimit
 
+<center>
 ![](https://pfgimenez.fr/images/casinolimit_logo.png)
+</center>
 
 - Keywords: lateral movement, Web exploitation
 - Authors: Sébastien Kilian, Valérie Viet Triem Tong, Jean-François Lalande, Alexandre Sanchez, Natan Talon, Pierre-François Gimenez
