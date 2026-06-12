@@ -12,6 +12,9 @@ main:
   - title: "Fos-R"
     url: https://fosr.inria.fr
 
+  - title: "Chall@BreizhCTF"
+    url: https://superviz.inria.fr/breizhctf/
+
   - title: "ANUBIS"
     url: https://superviz.inria.fr/anubis26/
 
