@@ -7,4 +7,4 @@ date: 2026-06-09
 location: "Paris, France"
 ---
 
-En tant que chercheur Inria, je développe régulièrement des proofs-of-concept pour des projets de recherche. Python est le langage le plus utilisé dans ce contexte. Pour un projet scientifique qui implique de la programmation système et de haute performances, j’ai choisi Rust. Dans cet exposé, je fais un retour d’expérience sur les avantages et les inconvénients que j’ai rencontrés. Globalement, mon retour est très positif, même si je ne m’attend pas à ce que Rust prenne une place importante dans la recherche.
+En tant que chercheur Inria, je développe régulièrement des proofs-of-concept pour des projets de recherche. Python est le langage le plus utilisé dans ce contexte. Pour un projet scientifique qui implique de la programmation système et de haute performances, j’ai choisi Rust. Dans cet exposé, je fais un retour d’expérience sur les avantages et les inconvénients que j’ai rencontrés. Globalement, mon retour est très positif, même si je ne m’attend pas à ce que Rust prenne une place importante dans la recherche. [Slides](https://pfgimenez.fr/files/rust_paris26.pdf)
