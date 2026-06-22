@@ -17,6 +17,12 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 
 ![PhD chronogram](images/chronogram.png)
 
+# Research chair
+
+## SYNTHETIC chair at [SequoIA](https://cluster-sequoia.univ-rennes.fr/)
+
+The SYNTHETIC project aims to enhance synthetic network traffic generation using transfer learning to address limitations in current methods, which struggle to adapt to different network descriptions. By leveraging unsupervised learning for benign traffic and style transfer for malicious traffic, SYNTHETIC enables the creation of parametrized datasets that can simulate gradual or sudden distribution shifts, improving the evaluation of intrusion detection systems (IDS) and their robustness over time. Additionally, this approach enhances the realism of cyber ranges and honeypots by generating adaptable background traffic, making training scenarios more effective and transferable to real-world cybersecurity challenges.
+
 # Ongoing collaborations
 
 ## [DeceptIA](https://deceptia.gitlabpages.inria.fr/web/index.html) (2025-2027)

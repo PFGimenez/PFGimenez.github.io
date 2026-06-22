@@ -11,8 +11,6 @@ The [BreizhCTF](https://www.breizhctf.com/) is the largest in-person CTF competi
 
 ![](https://pfgimenez.fr/images/skyfallm_logo.png)
 
-![](https://pfgimenez.fr/images/bctf26.jpg)
-
 - Keywords: phishing, active directory, LLM hacking
 - Authors: Pierre-François Gimenez, Alexandre Sanchez, Dorian Bachelot, Maxine Vachez, Manuel Poisson, Natan Talon, Pol Jaouen, Sébastien Kilian, Yohann Morel
 
@@ -20,11 +18,11 @@ In this scenario, the player takes on the role of a secret agent (from an unname
 
 Links: TBA
 
+![](https://pfgimenez.fr/images/bctf26.jpg)
+
 # 2025 -- PIRHACK
 
 ![](https://pfgimenez.fr/images/pirhack_logo.png)
-
-![](https://pfgimenez.fr/images/bctf25.jpg)
 
 - Keywords: networking, CVE exploitation, programming
 - Authors: Sébastien Kilian, Valérie Viet Triem Tong, Jean-François Lalande, Alexandre Sanchez, Yohann Rio, Yohann Morel, Maxine Vachez, Pierre-François Gimenez
@@ -34,6 +32,8 @@ In this scenario, the player must infiltrate a pirate ship to steal the treasure
 Links:
 - [Challenge repository](https://gitlab.inria.fr/pirat-public/pirhack/pirhack)
 - [Write-up](https://notes.inria.fr/_cCRN8o2SHG54QWWrUBQpA#)
+
+![](https://pfgimenez.fr/images/bctf25.jpg)
 
 # 2024 -- CasinoLimit
 
