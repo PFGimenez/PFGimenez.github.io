@@ -5,5 +5,5 @@ excerpt: "Intrusion Detection Systems (IDS) are essential tools for detecting an
 date: 2026-07-06
 venue: '11th IEEE European Symposium on Security and Privacy (EuroS&P26)'
 paperurl: ''
-citation: ''
+citation: 'Dijoud, F., Gimenez, P. F., Hurfin, M., Majorczyk, F., & Pilastre, B. (2026, July). GRAAL: GRAph-based Analysis of Logs for Advanced AI-based Intrusion Detection Systems. In EuroS&P 2026-11th IEEE European Symposium on Security and Privacy.'
 ---
