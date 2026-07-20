@@ -12,15 +12,11 @@ main:
   - title: "Fos-R"
     url: https://fosr.inria.fr
 
+  - title: "ANUBIS"
+    url: https://superviz.inria.fr/anubis26/
+
   - title: "Chall@BreizhCTF"
     url: /breizhctf/
-
-  - title: "ANUBIS"
-      subfolderitems:
-        - page: "ANUBIS’25"
-          url: https://superviz.inria.fr/anubis25/
-        - page: "ANUBIS’26"
-          url: https://superviz.inria.fr/anubis26/
 
   # - title: "Teaching"
     # url: /teaching/    
