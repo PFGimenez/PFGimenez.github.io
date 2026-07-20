@@ -16,7 +16,8 @@ The [BreizhCTF](https://www.breizhctf.com/) is the largest in-person CTF competi
 
 In this scenario, the player takes on the role of a secret agent (from an unnamed fictional agency). A malicious LLM has taken control of a satellite and is threatening to crash it into Earth. The objective is to infiltrate a company so that the participant can connect to the satellite. At the end of the challenge, participants will come to a (real) Minitel connected to an LLM. Players will have to convince the LLM to reveal a secret to them in order to win the challenge.
 
-Links: TBA
+Links:
+- [Challenge repository](https://gitlab.inria.fr/pirat-public/sky_fallm)
 
 ![](https://pfgimenez.fr/images/bctf26.jpg)
 
