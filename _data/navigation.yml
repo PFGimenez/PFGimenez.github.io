@@ -16,7 +16,11 @@ main:
     url: /breizhctf/
 
   - title: "ANUBIS"
-    url: https://superviz.inria.fr/anubis26/
+      subfolderitems:
+        - page: "ANUBIS’25"
+          url: https://superviz.inria.fr/anubis25/
+        - page: "ANUBIS’26"
+          url: https://superviz.inria.fr/anubis26/
 
   # - title: "Teaching"
     # url: /teaching/    
