@@ -5,5 +5,5 @@ excerpt: "The digitalization of public and private services led to more sophisti
 date: 2025-09-26
 venue: 'ESORICS 2025 International Workshops'
 paperurl: ''
-citation: 'Quetel, G., Alata, A., Gimenez, P. F., Pautet, L. & Robert, T., (2025). SuperviZ25-SQL: High-Quality Dataset to Empower Unsupervised SQL Injection Detection Systems. In the ESORICS 2025 International Workshops.'
+citation: 'Quetel, G., Alata, E., Gimenez, P. F., Pautet, L. & Robert, T., (2025). SuperviZ25-SQL: High-Quality Dataset to Empower Unsupervised SQL Injection Detection Systems. In the ESORICS 2025 International Workshops.'
 ---
