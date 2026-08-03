@@ -74,6 +74,7 @@ I was a member of the working group that lead to the ANSSI publication [Building
 
 ### PhD defense jury member
 
+- Léa Kenmogne (2026, Inria Grenoble)
 - Gabin Noblet (2026, LAAS-CNRS)
 - Hamdi Friji (2024, Télécom SudParis)
 - Léo Lavaur (2024, IMT Atlantique)
