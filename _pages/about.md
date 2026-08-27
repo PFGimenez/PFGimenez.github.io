@@ -55,7 +55,6 @@ I regularly work with researchers from:
 - DGA-MI and AMIAD (Bruz) on intrusion detection
 - Institut Mines-Télécom (Palaiseau) on data generation
 - IRIT (Toulouse) on machine learning
-- LAAS-CNRS (Toulouse) on formal language theory applied to security
 
 # Recent publications
   {% assign counter = 0 %}
