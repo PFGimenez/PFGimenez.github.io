@@ -13,6 +13,8 @@ I am a research scientist at [Inria](https://www.inria.fr/) (Rennes, France) in 
 - by proposing new representations of cybersecurity data (network communications, malware dynamic analysis, etc.)
 - by devising new techniques of synthetic network traffic generation based on explainable AI and data mining
 
+Open positions: in Septembre 2026, two new internship positions will open. Check this page soon :)
+
 <h1 id="important">To apply for an internship or a PhD, tell me how well you would fit into my future project, "LLM-Watermark", which focuses on using LLM watermarking for cybersecurity purposes. Otherwise, your application will not be considered.</h1>
 
 # PhD students supervision
